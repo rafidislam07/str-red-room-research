@@ -1,0 +1,3493 @@
+{
+  "metadata": {
+    "research_updated": "2026-10-26",
+    "room_labels": "Assigned from actually reviewed source photographs; appearance does not verify condition."
+  },
+  "profiles": {
+    "1376888340135621101": {
+      "title": "Velvet Chains Retreat",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 35,
+          "room": "living",
+          "path": "data/photo-review/1376888340135621101/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/e7c7c421-8e3a-4d09-80b2-fe8666d4d0ec.jpeg",
+          "captured_at": "2026-10-24T00:21:40.329319+00:00",
+          "sha256": "7b96565b29538b3069d47e220f4e6ca28eb56d32aadbde459501cfca7204a22f"
+        },
+        {
+          "index": 24,
+          "room": "living",
+          "path": "data/comparison-photos/1376888340135621101/024.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1376888340135621101/original/a29bae65-cb37-47d7-85da-4ff7b51b1cd8.jpeg",
+          "captured_at": "2026-10-24T03:51:35.724447+00:00",
+          "sha256": "7f8eb28f42babfabd02507c7fadd9b5657646b3e53790d88ec15ecd3a8329191"
+        },
+        {
+          "index": 48,
+          "room": "kitchen",
+          "path": "data/photo-review/1376888340135621101/048.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/905b58d1-957a-4c91-aff8-dc6a1b90accd.jpeg",
+          "captured_at": "2026-10-24T00:21:40.329319+00:00",
+          "sha256": "dc1875f1b3e9dfc5ce7897ef6eb9ddbc1394df375ec74912b915e621bbb1a8d0"
+        },
+        {
+          "index": 34,
+          "room": "sleeping",
+          "path": "data/photo-review/1376888340135621101/034.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/229c5728-033b-4404-a3dd-f3e6a60b3b68.jpeg",
+          "captured_at": "2026-10-24T00:21:40.329319+00:00",
+          "sha256": "a217b3a78baa33a840792c67eee579ef1f9b9e1f9fed9c4806732073009173d5"
+        },
+        {
+          "index": 32,
+          "room": "sleeping",
+          "path": "data/comparison-photos/1376888340135621101/032.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/06a80b06-f4d2-47d1-82ea-27ef30c79ffb.jpeg",
+          "captured_at": "2026-10-24T03:51:37.339644+00:00",
+          "sha256": "1b154022d0346d51a50d3c200f66bcee01fb43d3a6b845b119684bf686bec837"
+        },
+        {
+          "index": 15,
+          "room": "bathroom",
+          "path": "data/photo-review/1376888340135621101/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/ba9103e0-41c2-4933-94fb-cb540ccf296f.jpeg",
+          "captured_at": "2026-10-24T00:21:40.329319+00:00",
+          "sha256": "56cc01df24e8395f510a652aa2b99601be4d40693265670e2923da2839a614ab"
+        },
+        {
+          "index": 3,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1376888340135621101/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/a25ec061-3582-487a-8dc1-7e7ccffb6e51.jpeg",
+          "captured_at": "2026-10-24T03:51:38.612700+00:00",
+          "sha256": "2aec9eaf42816e8160251abf97d14f6d9aa3538e4e4396e599f7a75b353b1cad"
+        },
+        {
+          "index": 23,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1376888340135621101/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/b58b2434-7999-4b45-882a-d30f58dcba9b.jpeg",
+          "captured_at": "2026-10-24T03:51:39.069784+00:00",
+          "sha256": "7c632cd4686a2e4a9a1fa3b8f59f050856969a5b39b2745567909590bb3bac4f"
+        }
+      ],
+      "rooms": {
+        "living": [
+          35,
+          24
+        ],
+        "kitchen": [
+          48
+        ],
+        "sleeping": [
+          34,
+          32
+        ],
+        "bathroom": [
+          15
+        ],
+        "outdoor": [
+          3,
+          23
+        ]
+      }
+    },
+    "1521926604166516379": {
+      "title": "Cozy Romantic Cabin | Sauna Hot Tub & Scenic Views",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 7,
+          "room": "living",
+          "path": "data/photo-review/1521926604166516379/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521926604166516379/original/a0329992-c726-4a46-89d9-91b28f6c3a89.jpeg",
+          "captured_at": "2026-10-24T00:21:43.844937+00:00",
+          "sha256": "aeda07ea528f317f960ca53186a35f1fb0a90f56e736b01517891890c049ccc1"
+        },
+        {
+          "index": 20,
+          "room": "kitchen",
+          "path": "data/photo-review/1521926604166516379/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521926604166516379/original/61b29d93-95fe-4b18-9a0b-7ad172a88b92.jpeg",
+          "captured_at": "2026-10-24T00:21:43.844937+00:00",
+          "sha256": "4c888515c28e4c9004a6408e78d0b00f3cee8b04a04742ed3147f9c6e5ec8660"
+        },
+        {
+          "index": 26,
+          "room": "sleeping",
+          "path": "data/photo-review/1521926604166516379/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521926604166516379/original/f0a2d1f4-a4ff-4f2b-8000-3e8929302ffd.jpeg",
+          "captured_at": "2026-10-24T00:21:43.844937+00:00",
+          "sha256": "c07411d4afb0679dedd4bdee3f607c2cc0a550485f1d1778f47c4a6824de7267"
+        },
+        {
+          "index": 30,
+          "room": "bathroom",
+          "path": "data/photo-review/1521926604166516379/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521926604166516379/original/b3a2c0d5-517b-4f80-b6c5-39cdb6647c78.jpeg",
+          "captured_at": "2026-10-24T00:21:43.844937+00:00",
+          "sha256": "3c88bcd853dd5ac2aa32dd87982b4982a4c4e06b5fcf4708163468db1026e0fb"
+        }
+      ],
+      "rooms": {
+        "living": [
+          7
+        ],
+        "kitchen": [
+          20
+        ],
+        "sleeping": [
+          26
+        ],
+        "bathroom": [
+          30
+        ]
+      }
+    },
+    "1575680315335655120": {
+      "title": "Modern Cabin | Hot Tub+Sauna |Blue Ridge Mountains",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 13,
+          "room": "living",
+          "path": "data/photo-review/1575680315335655120/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575680315335655120/original/9ae1379e-8809-4c38-8e83-da88868d899b.jpeg",
+          "captured_at": "2026-10-24T00:26:41.338724+00:00",
+          "sha256": "41dc4a1ed05d0a88e35afa51b5c3ad8a55bd12537fde8d3193e4a32babce1729"
+        },
+        {
+          "index": 30,
+          "room": "kitchen",
+          "path": "data/photo-review/1575680315335655120/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575680315335655120/original/ca1d8186-89db-44a2-8ff4-bc41ec571ba9.jpeg",
+          "captured_at": "2026-10-24T00:26:41.338724+00:00",
+          "sha256": "009552daef4e46226a0ce998ba2f4f64e0976a388e9ea30c733adb9f728b2729"
+        },
+        {
+          "index": 4,
+          "room": "sleeping",
+          "path": "data/photo-review/1575680315335655120/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575680315335655120/original/68affc11-b6e9-4127-810d-6d7698eb3854.jpeg",
+          "captured_at": "2026-10-24T00:26:41.338724+00:00",
+          "sha256": "c24bb4ac0fc1435d3c2b343ff59a1661efb80b497cd454cd334207cafc5fc9ee"
+        },
+        {
+          "index": 20,
+          "room": "bathroom",
+          "path": "data/photo-review/1575680315335655120/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1575680315335655120/original/4ec1bb40-5c07-4de4-a8ce-a059ccd5b6f7.jpeg",
+          "captured_at": "2026-10-24T00:26:41.338724+00:00",
+          "sha256": "6f2edb9d247e761f8ed44496ac3e3ebca23cf285099acbbe862572f4bb0f7884"
+        }
+      ],
+      "rooms": {
+        "living": [
+          13
+        ],
+        "kitchen": [
+          30
+        ],
+        "sleeping": [
+          4
+        ],
+        "bathroom": [
+          20
+        ]
+      }
+    },
+    "1157994993197070013": {
+      "title": "Cold Plunge & Sauna! Rejuvenation Retreat|Hot tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 14,
+          "room": "living",
+          "path": "data/photo-review/1157994993197070013/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1Nzk5NDk5MzE5NzA3MDAxMw%3D%3D/original/f5d45e25-7094-42b2-b4f9-fd8ab227eeee.jpeg",
+          "captured_at": "2026-10-24T01:02:35.869911+00:00",
+          "sha256": "f2e0e17545185a862d73afc31b0c98a29966ac8b44b24f5a1bf48810aba9ce36"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/1157994993197070013/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1157994993197070013/original/89cb40df-60ec-47de-b4b2-cda1c5009a52.png",
+          "captured_at": "2026-10-24T01:02:35.869911+00:00",
+          "sha256": "aac588b2e4f02782145449b224bfeb7c0a98de495d2446653c9079f8b8dc0439"
+        },
+        {
+          "index": 20,
+          "room": "sleeping",
+          "path": "data/photo-review/1157994993197070013/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1Nzk5NDk5MzE5NzA3MDAxMw%3D%3D/original/8a4e4060-f4fe-4c5b-b0eb-a8774a04bd23.jpeg",
+          "captured_at": "2026-10-24T01:02:35.869911+00:00",
+          "sha256": "c2475b667bc771d33b0e5d0a469a577c1e278b980fbab0bf7b3aa7d650733c31"
+        },
+        {
+          "index": 39,
+          "room": "bathroom",
+          "path": "data/photo-review/1157994993197070013/039.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE1Nzk5NDk5MzE5NzA3MDAxMw%3D%3D/original/bd9c97bb-c33c-4233-b16f-73e468095411.jpeg",
+          "captured_at": "2026-10-24T01:02:35.869911+00:00",
+          "sha256": "5f63dc7fb37acdfa7f22386b1755e8035d0375d4d3c0fa1e31f125c1f75c73d4"
+        }
+      ],
+      "rooms": {
+        "living": [
+          14
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          20
+        ],
+        "bathroom": [
+          39
+        ]
+      }
+    },
+    "1487221124005378393": {
+      "title": "Blue Ridge | Hot Tub + Sauna | Pickleball",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 31,
+          "room": "living",
+          "path": "data/focused-photos/1487221124005378393/031.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/ebbe38b1-a93c-4151-84f1-2f0e3b8e90d7.jpeg",
+          "captured_at": "2026-10-24T03:29:50.985059+00:00",
+          "sha256": "33b6693b09780ed70a50378ccdf1b4cdb1f294d979086586012293df771be953"
+        },
+        {
+          "index": 35,
+          "room": "kitchen",
+          "path": "data/focused-photos/1487221124005378393/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/4e598291-2fb4-4fb4-8421-46e9301fb6fd.jpeg",
+          "captured_at": "2026-10-24T03:29:50.985059+00:00",
+          "sha256": "2821521c31bb2dd8428668cd98d3ab56e613dec7c605e32ecd88edd43d695dec"
+        },
+        {
+          "index": 41,
+          "room": "sleeping",
+          "path": "data/focused-photos/1487221124005378393/041.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/6593069c-80cc-4a70-9db9-602d3b60aa2d.jpeg",
+          "captured_at": "2026-10-24T03:29:50.985059+00:00",
+          "sha256": "6a22cdff5fdab4e989123fddf1470d085b660d8a2dcdffacdaf1d685bc305a0f"
+        },
+        {
+          "index": 45,
+          "room": "bathroom",
+          "path": "data/focused-photos/1487221124005378393/045.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/ab6766a5-1ab8-4014-86a9-872ab0826e36.jpeg",
+          "captured_at": "2026-10-24T03:29:50.985059+00:00",
+          "sha256": "473dd5cf4bdd163e65cedf8df9cca138827276d8a08958a1483c9907555333b8"
+        },
+        {
+          "index": 2,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1487221124005378393/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/58ca447c-72c3-4df7-8e7b-0112695ca4a3.jpeg",
+          "captured_at": "2026-10-24T03:51:35.729514+00:00",
+          "sha256": "21d85a8f6163d4e0c05cc395ce69c978ce306ca594f02fe48aa659d45c2d40f2"
+        },
+        {
+          "index": 3,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1487221124005378393/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1487221124005378393/original/80c632a5-af74-4180-adc9-d5a902875125.jpeg",
+          "captured_at": "2026-10-24T03:51:36.820003+00:00",
+          "sha256": "c990c2c4066ff6942ad5a5217dffd7964f62f0b57de1ca2fc95e1b419afeb4a0"
+        }
+      ],
+      "rooms": {
+        "living": [
+          31
+        ],
+        "kitchen": [
+          35
+        ],
+        "sleeping": [
+          41
+        ],
+        "bathroom": [
+          45
+        ],
+        "outdoor": [
+          2,
+          3
+        ]
+      }
+    },
+    "1020266756291150958": {
+      "title": "Hilltop Haus: 6 Minutes From Downtown Blue Ridge",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 4,
+          "room": "living",
+          "path": "data/focused-photos/1020266756291150958/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/7d91a04a-d3f3-45c2-8f2e-1ce900b7d0bf.jpeg",
+          "captured_at": "2026-10-24T03:29:44.953812+00:00",
+          "sha256": "7ee5509cff1e3bdb8c409a54b2bd501fd034d0355e3c886df1291dc3f3fb5b6b"
+        },
+        {
+          "index": 16,
+          "room": "kitchen",
+          "path": "data/focused-photos/1020266756291150958/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/eb75bf01-592a-44a5-af7e-dcfe2ff3ce35.jpeg",
+          "captured_at": "2026-10-24T03:29:44.953812+00:00",
+          "sha256": "387205898fcd9d3fa1d02cf2a9e5fe025dd28c93db87b16d2b118f0cc65b5355"
+        },
+        {
+          "index": 14,
+          "room": "sleeping",
+          "path": "data/focused-photos/1020266756291150958/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/48c8cbb1-ce1e-421a-aa8d-6af8bbf3bac1.jpeg",
+          "captured_at": "2026-10-24T03:29:44.953812+00:00",
+          "sha256": "96e693cb1969f86614543f43c1a87418306460d0b8bc0684819128f65204ff16"
+        },
+        {
+          "index": 19,
+          "room": "bathroom",
+          "path": "data/focused-photos/1020266756291150958/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/9119d2ae-1024-407b-a399-f63adbef7c3e.jpeg",
+          "captured_at": "2026-10-24T03:29:44.953812+00:00",
+          "sha256": "667ce08332e877a82fa06bc4f94d0f7daf4667af834280f8bf481ce0f0275598"
+        },
+        {
+          "index": 2,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1020266756291150958/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/c8f174b9-1d6c-4c45-bd61-0525c2998589.jpeg",
+          "captured_at": "2026-10-24T03:51:35.730130+00:00",
+          "sha256": "f02125a764bc9f89e7b85b91f8476bc0e6b768d188b7ef9c67a9a0e2bd846d59"
+        },
+        {
+          "index": 11,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1020266756291150958/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/8f55aea4-edde-4074-98da-e35c1c2b8348.jpeg",
+          "captured_at": "2026-10-24T03:51:36.819923+00:00",
+          "sha256": "3ec94b15ea8833f27301a62d5021ce5839b66f6e3968b4a5fdc6ad7af8c37f01"
+        }
+      ],
+      "rooms": {
+        "living": [
+          4
+        ],
+        "kitchen": [
+          16
+        ],
+        "sleeping": [
+          14
+        ],
+        "bathroom": [
+          19
+        ],
+        "outdoor": [
+          2,
+          11
+        ]
+      }
+    },
+    "1293065653537380744": {
+      "title": "Sauna, Close to Downtown, Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/focused-photos/1293065653537380744/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1293065653537380744/original/2be57688-28e0-4c50-8f4a-deffa2ef2043.jpeg",
+          "captured_at": "2026-10-24T03:29:45.049128+00:00",
+          "sha256": "2bafa713b8686c33b571a4ed094921538660d37226a2e404286484e98d68a7b4"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/focused-photos/1293065653537380744/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1293065653537380744/original/a21c82aa-1370-4b60-bede-79653a4a7698.jpeg",
+          "captured_at": "2026-10-24T03:29:45.049128+00:00",
+          "sha256": "c1dea4fbc89659990a77f2f6be25be76d5e24978cb7fca68ebfdafa21eacf9ff"
+        },
+        {
+          "index": 6,
+          "room": "sleeping",
+          "path": "data/focused-photos/1293065653537380744/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1293065653537380744/original/b3d3223c-f899-48c5-b71a-ba76cdd81c2b.jpeg",
+          "captured_at": "2026-10-24T03:29:45.049128+00:00",
+          "sha256": "7ba951586d8d194ad5674399065689be391b854f07b43daadc6c7f624eecf4ee"
+        },
+        {
+          "index": 8,
+          "room": "bathroom",
+          "path": "data/focused-photos/1293065653537380744/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1293065653537380744/original/11a06b1c-ae84-420c-9388-eb0bac544e36.jpeg",
+          "captured_at": "2026-10-24T03:29:45.049128+00:00",
+          "sha256": "1abd8ed1fda8c0ace0166a3aa39248b11da515bdbdee0aeffb2233fc5720e822"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          6
+        ],
+        "bathroom": [
+          8
+        ]
+      }
+    },
+    "1452875891719932372": {
+      "title": "Tangled Up Cabin",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1452875891719932372/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/dc2dc7c7-9a72-48dc-bc82-6023862630b8.jpeg",
+          "captured_at": "2026-10-24T00:22:00.730103+00:00",
+          "sha256": "fce2706c4b1771fa6866de8353d297ecf6803648786be45ef15d84770f41db5b"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/1452875891719932372/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/7a21a89b-85e3-47ba-9305-31d59a49ae1a.jpeg",
+          "captured_at": "2026-10-24T00:22:00.730103+00:00",
+          "sha256": "ee4c415a0216ac358321ba7431a046e6ec76a8d15b9fa82c51e6e4af65df513a"
+        },
+        {
+          "index": 10,
+          "room": "sleeping",
+          "path": "data/photo-review/1452875891719932372/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1452875891719932372/original/68c0f56c-6dcf-4031-b0b6-74fcfe293658.jpeg",
+          "captured_at": "2026-10-24T00:22:00.730103+00:00",
+          "sha256": "6c70d0bc76bf004a62bf9d5228cc29690349940ab5e72d0140a25ca0c17b5c6a"
+        },
+        {
+          "index": 20,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1452875891719932372/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/3fd1e951-1928-42f0-a9ac-31fcf58f480a.jpeg",
+          "captured_at": "2026-10-24T03:51:35.731859+00:00",
+          "sha256": "87505466aa1dd8d64bfb23b8d46ee0faf36fc96e2cf53bc2fba97cfc40ddd398"
+        },
+        {
+          "index": 21,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1452875891719932372/021.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/d743ab00-9a61-4ece-9e88-e79667625247.jpeg",
+          "captured_at": "2026-10-24T03:51:36.821628+00:00",
+          "sha256": "4cdaef2cfefc8103c6d54fcc9be5ad58505ffdfed49db56f080fe968f89eb769"
+        },
+        {
+          "index": 19,
+          "room": "bathroom",
+          "path": "data/photo-review/1452875891719932372/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/cefd73ba-fe61-49b9-9593-8c1e97de77bd.jpeg",
+          "captured_at": "2026-10-24T00:22:00.730103+00:00",
+          "sha256": "8a4359975deed60928216123ab300624677d9b65cadef53575e5ec2114c49669"
+        },
+        {
+          "index": 26,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1452875891719932372/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/ad4dcfcc-f4c4-46d5-9e37-6f6653d4b6b6.jpeg",
+          "captured_at": "2026-10-24T03:51:37.710855+00:00",
+          "sha256": "21e0a699d345f723cb98b2c7cb052edb494d8ee9d22fbdac27c19bf27453a59d"
+        },
+        {
+          "index": 23,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1452875891719932372/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/4d05c316-be6b-4b5f-b805-6a25dd05cfb2.jpeg",
+          "captured_at": "2026-10-24T03:51:38.570806+00:00",
+          "sha256": "c164e7ea557c59f741dcff649d9f4784833ff135da198ba12741d100f7e09eb7"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          10
+        ],
+        "bathroom": [
+          20,
+          21,
+          19
+        ],
+        "outdoor": [
+          26,
+          23
+        ]
+      }
+    },
+    "1104485212592092496": {
+      "title": "Red Sunset",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1104485212592092496/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/3ddb58f9-1dce-4f2d-ae32-6e7cb079deec.jpeg",
+          "captured_at": "2026-10-24T00:21:08.881595+00:00",
+          "sha256": "854e3a39f0083cc613d651ec4d8f4912e43a428cd767da5de57701b50f348949"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/1104485212592092496/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/2e90f603-eab9-44f5-bc76-b44788679fae.jpeg",
+          "captured_at": "2026-10-24T00:21:08.881595+00:00",
+          "sha256": "972c26c9f57a5adcc254fbb6bf9427ac8481168f64fc9cd7db94ff0a8051767f"
+        },
+        {
+          "index": 13,
+          "room": "sleeping",
+          "path": "data/photo-review/1104485212592092496/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/60c84239-1724-48af-93a7-3c8dd1ad4767.jpeg",
+          "captured_at": "2026-10-24T00:21:08.881595+00:00",
+          "sha256": "512acaf1ac061affdc0202aacd18783c2746e89e26d653e0b2b097a41da925bf"
+        },
+        {
+          "index": 15,
+          "room": "sleeping",
+          "path": "data/comparison-photos/1104485212592092496/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/6ea93b4c-9a26-4374-b8ec-6c1398c7b524.jpeg",
+          "captured_at": "2026-10-24T03:51:38.230036+00:00",
+          "sha256": "5ba2c637ce4451ec6cd4db60b4ed61c0720058128b18b627d77f893b9bc365f4"
+        },
+        {
+          "index": 18,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1104485212592092496/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/61ec8e69-19a5-4641-b5ab-cbb7a95477cd.jpeg",
+          "captured_at": "2026-10-24T03:51:38.941085+00:00",
+          "sha256": "8885aa7b77ad7b1ea4b1ca6c360e2b67b3d6fd7ee52d69a027e40a8e4e15406d"
+        },
+        {
+          "index": 17,
+          "room": "bathroom",
+          "path": "data/photo-review/1104485212592092496/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/93261771-47d6-445b-8231-eadd09754dbd.jpeg",
+          "captured_at": "2026-10-24T00:21:08.881595+00:00",
+          "sha256": "495a1482f0d97cb9f8f09788510350f8fbddbddfd0892c0f9e484d58377e1d45"
+        },
+        {
+          "index": 35,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1104485212592092496/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/606dccf4-9e93-457f-8f5c-41281aa4b2bf.jpeg",
+          "captured_at": "2026-10-24T03:51:39.680620+00:00",
+          "sha256": "563662cfbfe26346b12f844ed265b9c88b122a8f42f11e9b2b29c41dd9495a74"
+        },
+        {
+          "index": 26,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1104485212592092496/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/21d0bb28-02f9-4a11-8aee-98e2a04d26ff.jpeg",
+          "captured_at": "2026-10-24T03:51:40.786208+00:00",
+          "sha256": "c0d165e8d3a1d469179d96440abcea9c532e8ea3e50f9e27ad80043d0f7f7b02"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          13,
+          15
+        ],
+        "bathroom": [
+          18,
+          17
+        ],
+        "outdoor": [
+          35,
+          26
+        ]
+      }
+    },
+    "932060688580279208": {
+      "title": "Luxury Honeymoon w/Hot Tub, Relaxing Back Porch",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/932060688580279208/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-932060688580279208/original/e3e95ccc-f0fc-4cba-98a5-7aac274876f3.jpeg",
+          "captured_at": "2026-10-24T00:21:16.219949+00:00",
+          "sha256": "ebf9728f57e1c703b4a241304db7292e3168cd43b93c13bcba4309f591a2368e"
+        },
+        {
+          "index": 10,
+          "room": "kitchen",
+          "path": "data/photo-review/932060688580279208/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-932060688580279208/original/3cd8777b-2137-4d77-af59-25f54a8ba737.jpeg",
+          "captured_at": "2026-10-24T00:21:16.219949+00:00",
+          "sha256": "5b4d5be513c8395f63d64d7b3afa5d832f67d7931321d5ff5386ab42f586237d"
+        },
+        {
+          "index": 13,
+          "room": "sleeping",
+          "path": "data/photo-review/932060688580279208/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-932060688580279208/original/96102b60-af1d-4306-91c2-8d9c5e5d47da.jpeg",
+          "captured_at": "2026-10-24T00:21:16.219949+00:00",
+          "sha256": "82de110f2f05c7938b389e1f7513241d446f78a5917804e7e449ba652262728c"
+        },
+        {
+          "index": 17,
+          "room": "bathroom",
+          "path": "data/photo-review/932060688580279208/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-932060688580279208/original/97309e6b-2d52-4637-8d06-9c06ff6dab12.jpeg",
+          "captured_at": "2026-10-24T00:21:16.219949+00:00",
+          "sha256": "cb4e831b44ee7bc5a78626b182a546c58dd0754fd84198ab872b65cc8c823e4d"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          10
+        ],
+        "sleeping": [
+          13
+        ],
+        "bathroom": [
+          17
+        ]
+      }
+    },
+    "1016618411511525213": {
+      "title": "Private Luxury Cabin, Romantic Getaway for Couples",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 6,
+          "room": "living",
+          "path": "data/photo-review/1016618411511525213/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/f752dfd6-b94b-4581-8975-d0cb5b492a14.jpeg",
+          "captured_at": "2026-10-24T00:21:09.367112+00:00",
+          "sha256": "83c5e83bdf2e25fb6d457b70704afc5278806c49f7ab02464127b593a7b07ceb"
+        },
+        {
+          "index": 8,
+          "room": "kitchen",
+          "path": "data/photo-review/1016618411511525213/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/1e4e368e-c423-4a4a-9c2b-8a58059f653e.jpeg",
+          "captured_at": "2026-10-24T00:21:09.367112+00:00",
+          "sha256": "30f2a228c6ef7c89d35b06f2afd9675b82658714e253d67b56a0511f56ec88a4"
+        },
+        {
+          "index": 4,
+          "room": "sleeping",
+          "path": "data/photo-review/1016618411511525213/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/12ee5b3a-1dd3-416d-a9bb-3bc1d678ef1f.jpeg",
+          "captured_at": "2026-10-24T00:21:09.367112+00:00",
+          "sha256": "0e697ad8e8578d7a920e82d208e9580e1fbec9d188962af320cb9ba4fe45e1c9"
+        },
+        {
+          "index": 23,
+          "room": "bathroom",
+          "path": "data/photo-review/1016618411511525213/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/26ecf836-7d15-49bc-8d59-b057c9da753f.jpeg",
+          "captured_at": "2026-10-24T00:21:09.367112+00:00",
+          "sha256": "3fe61333e752ce839103010124361a50fc13015f74a747f873e36195f9e35819"
+        }
+      ],
+      "rooms": {
+        "living": [
+          6
+        ],
+        "kitchen": [
+          8
+        ],
+        "sleeping": [
+          4
+        ],
+        "bathroom": [
+          23
+        ]
+      }
+    },
+    "982617409771636564": {
+      "title": "Luxury | Private | Hot Tub | State Park | Pets",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/982617409771636564/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/0dc3fa13-31ce-456f-ba82-9d3573b502f7.jpg",
+          "captured_at": "2026-10-24T00:21:38.052516+00:00",
+          "sha256": "50d595d9ab1a901a4c973293150f692ff32b247bd5582d0a74d1ada54ee6cbfb"
+        },
+        {
+          "index": 2,
+          "room": "kitchen",
+          "path": "data/photo-review/982617409771636564/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-982617409771636564/original/beb3b357-2fe7-4227-a9c3-fce31d84d349.jpeg",
+          "captured_at": "2026-10-24T00:21:38.052516+00:00",
+          "sha256": "f5cc9d77cd4ca0cdd754862c92c3c579fc2bba44b7a2e3ac6db95d69ffd6b916"
+        },
+        {
+          "index": 5,
+          "room": "sleeping",
+          "path": "data/photo-review/982617409771636564/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-982617409771636564/original/d245f2d4-4687-4a81-9dc6-eba65e4ab1c2.jpeg",
+          "captured_at": "2026-10-24T00:21:38.052516+00:00",
+          "sha256": "8a6444e42901c5a112126e98ea7db9c04afb7967146072244d5c827b2ce6c121"
+        },
+        {
+          "index": 7,
+          "room": "bathroom",
+          "path": "data/photo-review/982617409771636564/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-982617409771636564/original/7a070574-b160-4e50-b39d-c48c9bece8d1.jpeg",
+          "captured_at": "2026-10-24T00:21:38.052516+00:00",
+          "sha256": "e3c807edff7fb20ac61fc3bc5d6dca594e7f5676328854897aeafd3fa69b7137"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          2
+        ],
+        "sleeping": [
+          5
+        ],
+        "bathroom": [
+          7
+        ]
+      }
+    },
+    "582074979965770818": {
+      "title": "Romantic Couples Cabin Hot Tub, Fire Pit, Lux Bath",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/focused-photos/582074979965770818/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-582074979965770818/original/8b6dae78-9b53-4e5a-ae24-03248c13e2ee.jpeg",
+          "captured_at": "2026-10-24T03:29:52.568392+00:00",
+          "sha256": "1ab9ce62d5af4200390ee92339b76776e65ea6a5d9bd24b4380617b5691639e7"
+        },
+        {
+          "index": 30,
+          "room": "kitchen",
+          "path": "data/focused-photos/582074979965770818/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/airflow/Hosting-582074979965770818/original/6148b3bd-630d-474e-aa93-b6c28c94ce89.jpg",
+          "captured_at": "2026-10-24T03:29:52.568392+00:00",
+          "sha256": "bd53f99d9498bc88e0bba836020d296645f70e1fb51a84590534dd4baa61d1a9"
+        },
+        {
+          "index": 6,
+          "room": "sleeping",
+          "path": "data/focused-photos/582074979965770818/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-582074979965770818/original/b80b389f-f691-4428-8779-874f3f4a1247.jpeg",
+          "captured_at": "2026-10-24T03:29:52.568392+00:00",
+          "sha256": "f38c771741851be1ae4b863328d0d8059f1e94e784935770302385c5fbbcf4a8"
+        },
+        {
+          "index": 25,
+          "room": "bathroom",
+          "path": "data/focused-photos/582074979965770818/025.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-582074979965770818/original/56612f02-f095-4268-809c-16cf1109fe14.jpeg",
+          "captured_at": "2026-10-24T03:29:52.568392+00:00",
+          "sha256": "a3862237e6c54b11372dcfec83460c96bb8223ce47dd49ffaa293c12eb1afe01"
+        },
+        {
+          "index": 1,
+          "room": "outdoor",
+          "path": "data/comparison-photos/582074979965770818/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTgyMDc0OTc5OTY1NzcwODE4/original/29f37a89-6329-46a0-b255-859aec69717a.jpeg",
+          "captured_at": "2026-10-24T03:51:38.347630+00:00",
+          "sha256": "4a5f039b3b0ea178a90dfaff0f976cbbf708c4f7516acbd7af817fba7f3c9e49"
+        },
+        {
+          "index": 5,
+          "room": "outdoor",
+          "path": "data/comparison-photos/582074979965770818/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTgyMDc0OTc5OTY1NzcwODE4/original/8187eb3b-2c85-4170-a994-5edfd81e0f7c.jpeg",
+          "captured_at": "2026-10-24T03:51:39.245842+00:00",
+          "sha256": "ab1dca769cbed59eaa6d9b7aab9d5cfae650dfa981267ddd266871342bb9f4f5"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          30
+        ],
+        "sleeping": [
+          6
+        ],
+        "bathroom": [
+          25
+        ],
+        "outdoor": [
+          1,
+          5
+        ]
+      }
+    },
+    "653449394656100889": {
+      "title": "The Onyx | Secluded Couples Cabin | Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/focused-photos/653449394656100889/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/8050d834-9c46-4fc6-ad77-0f38644d5225.jpeg",
+          "captured_at": "2026-10-24T03:29:53.140544+00:00",
+          "sha256": "794f5e9d470bff5ff420ec7a251c6f96083e35a4c0577fab4995bdb367def679"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/focused-photos/653449394656100889/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/51690748-327a-409c-a760-2dc4c255e527.jpeg",
+          "captured_at": "2026-10-24T03:29:53.140544+00:00",
+          "sha256": "68a2b5636676e741d39f19159993c2a4d3ac69d04858264d197ca01a8be11f2d"
+        },
+        {
+          "index": 18,
+          "room": "sleeping",
+          "path": "data/focused-photos/653449394656100889/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/d9bf766b-b6b8-4085-9572-15851bf610f4.jpeg",
+          "captured_at": "2026-10-24T03:29:53.140544+00:00",
+          "sha256": "78f20bd85d1977fb00d8ad13421e61bad827e9cac93143899850ad55c656417c"
+        },
+        {
+          "index": 26,
+          "room": "bathroom",
+          "path": "data/focused-photos/653449394656100889/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/52b35530-ff90-4bf4-a0c4-e27cbf33b83b.jpeg",
+          "captured_at": "2026-10-24T03:29:53.140544+00:00",
+          "sha256": "3a904be7d68edf45d8a68880f78df559bf4ccc61e19ddfc66cbf4db1fd60ac79"
+        },
+        {
+          "index": 34,
+          "room": "outdoor",
+          "path": "data/comparison-photos/653449394656100889/034.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/5a16db56-cf1f-41df-90e5-d8ba9c1cb792.jpeg",
+          "captured_at": "2026-10-24T03:51:39.442823+00:00",
+          "sha256": "0565612b7c90a45962d7951d7627f4fc74fac74a583282f5c94049b2866e4622"
+        },
+        {
+          "index": 31,
+          "room": "outdoor",
+          "path": "data/comparison-photos/653449394656100889/031.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-653449394656100889/original/0fa7cfb5-7c3c-4c6c-9ddb-09c8a8623c35.jpeg",
+          "captured_at": "2026-10-24T03:51:40.901990+00:00",
+          "sha256": "28b8aab93719460cada2aeb4af1ff037242b8cd982fe6653d5a49de01236f205"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          18
+        ],
+        "bathroom": [
+          26
+        ],
+        "outdoor": [
+          34,
+          31
+        ]
+      }
+    },
+    "557939750822859392": {
+      "title": "First Kiss Cabin | Romantic | Hot Tub | Fireplace",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 9,
+          "room": "living",
+          "path": "data/focused-photos/557939750822859392/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-557939750822859392/original/ab73b91c-54bf-471a-8374-3091ac074fba.jpeg",
+          "captured_at": "2026-10-24T03:29:51.311465+00:00",
+          "sha256": "7b902bdcbbf26d7f81efcacade1350839db10f34d5c6c32e9a542f948accd4f1"
+        },
+        {
+          "index": 18,
+          "room": "kitchen",
+          "path": "data/focused-photos/557939750822859392/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-557939750822859392/original/b6ba8f11-2b2b-4187-b4da-92ac70f3e2ee.jpeg",
+          "captured_at": "2026-10-24T03:29:51.311465+00:00",
+          "sha256": "3d1d8c88121925775066610cd89dbf91a13aef73a6bdf7c6bceb39875f16068e"
+        },
+        {
+          "index": 30,
+          "room": "sleeping",
+          "path": "data/focused-photos/557939750822859392/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-557939750822859392/original/b1acd83c-0963-426a-9d27-b50061fc61f0.jpeg",
+          "captured_at": "2026-10-24T03:29:51.311465+00:00",
+          "sha256": "c55e297bb6f4d29027b2428507776728622779e34e2b35021584d0304fc4365d"
+        },
+        {
+          "index": 34,
+          "room": "bathroom",
+          "path": "data/focused-photos/557939750822859392/034.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-557939750822859392/original/4e5aca2c-69c9-4d16-b6d2-1da6255a39be.jpeg",
+          "captured_at": "2026-10-24T03:29:51.311465+00:00",
+          "sha256": "d20e30b31cd1de0979b11b3aeba297288404171ccb19c0e604581f3df6408b6a"
+        }
+      ],
+      "rooms": {
+        "living": [
+          9
+        ],
+        "kitchen": [
+          18
+        ],
+        "sleeping": [
+          30
+        ],
+        "bathroom": [
+          34
+        ]
+      }
+    },
+    "1403088011323129843": {
+      "title": "Strip Lounge / Darkwood Tryst",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1403088011323129843/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/47e6a739-4d9e-41d3-9fdf-1b429f218f41.jpeg",
+          "captured_at": "2026-10-24T00:21:45.892101+00:00",
+          "sha256": "d4b9bc57431f54a134894c0a2b3449eec08f45e58704f63a4f4c41ccd00b31b5"
+        },
+        {
+          "index": 8,
+          "room": "kitchen",
+          "path": "data/photo-review/1403088011323129843/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/144c9b23-a16b-405c-9176-0cf03f9a64a2.jpeg",
+          "captured_at": "2026-10-24T00:21:45.892101+00:00",
+          "sha256": "8c4ea81b97b22049198b2da9dae68dc5ef5f5107fc6d3689efa55ee344bef013"
+        },
+        {
+          "index": 16,
+          "room": "sleeping",
+          "path": "data/comparison-photos/1403088011323129843/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/06fefffd-201c-407a-b3d3-56866a4b6d5e.jpeg",
+          "captured_at": "2026-10-24T03:51:39.928073+00:00",
+          "sha256": "5975fb705a38aba91855857654acc171cdb724cba65cc810f380136e553960dc"
+        },
+        {
+          "index": 23,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1403088011323129843/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/738f7782-27c0-4470-85fc-b60a94f8059b.jpeg",
+          "captured_at": "2026-10-24T03:51:40.431718+00:00",
+          "sha256": "c2b1e258b485baebd555f4c73368db897856d8321ea6abb97c3c9dde3134c88e"
+        },
+        {
+          "index": 22,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1403088011323129843/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/016ce3f9-1bb2-42a6-8b84-962d0d36f92e.jpeg",
+          "captured_at": "2026-10-24T03:51:41.293424+00:00",
+          "sha256": "d0b1b03f78311afdb708bcb9af00c41dd35177203d5f0547a9e3e952beecc25d"
+        },
+        {
+          "index": 20,
+          "room": "bathroom",
+          "path": "data/photo-review/1403088011323129843/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/4f624e29-bfde-4066-8f05-2be74c184a08.jpeg",
+          "captured_at": "2026-10-24T00:21:45.892101+00:00",
+          "sha256": "a04d1a95617a0b32dc62719fce3303890e59c11809572ba6b08d7d3316f5a6f0"
+        },
+        {
+          "index": 33,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1403088011323129843/033.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQwMzA4ODAxMTMyMzEyOTg0Mw==/original/61190f33-4ab4-4de3-91fc-c3db0e1808c8.jpeg",
+          "captured_at": "2026-10-24T03:51:42.134703+00:00",
+          "sha256": "99dac66d058c9b906fa7372d632a0f7791ede8a299e487aab5b0b668944db36d"
+        },
+        {
+          "index": 12,
+          "room": "playroom",
+          "path": "data/photo-review/1403088011323129843/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1403088011323129843/original/8e5fd1b3-98fb-4e87-9d12-a4f634ba1b09.jpeg",
+          "captured_at": "2026-10-24T00:21:45.892101+00:00",
+          "sha256": "8590fda8993aeb72196d8584741ef78c17427e74c40dcd0a933d2cb3ad938ae3"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          8
+        ],
+        "sleeping": [
+          16
+        ],
+        "bathroom": [
+          23,
+          22,
+          20
+        ],
+        "outdoor": [
+          33
+        ],
+        "playroom": [
+          12
+        ]
+      }
+    },
+    "1335666392357631307": {
+      "title": "Luxury Couples Cabin | Hot Tub, Sauna, Soaking Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1335666392357631307/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1335666392357631307/original/a5d9bb1c-8c28-42e3-831f-99798d26149b.jpeg",
+          "captured_at": "2026-10-24T00:21:53.592694+00:00",
+          "sha256": "f6f450f66abe1e54b3cced9f18d54ce9a9207ffcdb9dbc8d2c83c51bdce74105"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/1335666392357631307/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzNTY2NjM5MjM1NzYzMTMwNw%3D%3D/original/8a45a9c8-77db-404a-bd52-b7d4e2df18aa.jpeg",
+          "captured_at": "2026-10-24T00:21:53.592694+00:00",
+          "sha256": "1c3d66fd66705e86d483ecb5bd3d31ae2a789ba9ed6eb15a8dda26936ff38439"
+        },
+        {
+          "index": 6,
+          "room": "sleeping",
+          "path": "data/photo-review/1335666392357631307/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1335666392357631307/original/739a738c-ba31-4a6a-ba7d-004a604e9803.jpeg",
+          "captured_at": "2026-10-24T00:21:53.592694+00:00",
+          "sha256": "138f7b7c70a502f2a8bf555197357acad169695a024e450d5e407e14391dcadd"
+        },
+        {
+          "index": 9,
+          "room": "bathroom",
+          "path": "data/photo-review/1335666392357631307/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMzNTY2NjM5MjM1NzYzMTMwNw%3D%3D/original/71b2a123-aa9b-493b-8be9-c8beeadd9a29.jpeg",
+          "captured_at": "2026-10-24T00:21:53.592694+00:00",
+          "sha256": "15b4568872b1f8d6318c7049fc2d02d3aa91dfbe3c8b24069f29d4d53a34e39c"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          6
+        ],
+        "bathroom": [
+          9
+        ]
+      }
+    },
+    "1318237169112577102": {
+      "title": "Romantic Escape | Sauna, Soaking Tub & Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 4,
+          "room": "living",
+          "path": "data/photo-review/1318237169112577102/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxODIzNzE2OTExMjU3NzEwMg%3D%3D/original/fe732857-ba96-483c-87a8-a63ef6f37a69.jpeg",
+          "captured_at": "2026-10-24T00:21:48.640145+00:00",
+          "sha256": "3d3bf12d4bca3b45b9cd1cbe405d24859832369395578d97d056201055e282eb"
+        },
+        {
+          "index": 11,
+          "room": "kitchen",
+          "path": "data/photo-review/1318237169112577102/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxODIzNzE2OTExMjU3NzEwMg%3D%3D/original/d5dc6b1a-044d-40ff-bd3b-8d3f0fcf5fe2.jpeg",
+          "captured_at": "2026-10-24T00:21:48.640145+00:00",
+          "sha256": "a3ff376384d49e77321a816adf83570be3699963d0e137d00b1e31507953518c"
+        },
+        {
+          "index": 2,
+          "room": "sleeping",
+          "path": "data/photo-review/1318237169112577102/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxODIzNzE2OTExMjU3NzEwMg%3D%3D/original/e0a98c98-6abd-411c-823f-4df714b79106.jpeg",
+          "captured_at": "2026-10-24T00:21:48.640145+00:00",
+          "sha256": "59fd29f25e9a615cbfd1d0d81f5fe96d1cb3fd1624b4fe6077ee4c21e92dadcf"
+        },
+        {
+          "index": 12,
+          "room": "bathroom",
+          "path": "data/photo-review/1318237169112577102/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMxODIzNzE2OTExMjU3NzEwMg%3D%3D/original/e867035b-d0db-4cfd-83f5-419c0d18fabb.jpeg",
+          "captured_at": "2026-10-24T00:21:48.640145+00:00",
+          "sha256": "71878950751d0d444227b33e1b4e17e0e1eb33611188eeb6c1921944190da1b7"
+        }
+      ],
+      "rooms": {
+        "living": [
+          4
+        ],
+        "kitchen": [
+          11
+        ],
+        "sleeping": [
+          2
+        ],
+        "bathroom": [
+          12
+        ]
+      }
+    },
+    "1211851865295336955": {
+      "title": "Romantic Cabin Swings | Private Sauna & Hot Tub!",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 19,
+          "room": "living",
+          "path": "data/photo-review/1211851865295336955/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1211851865295336955/original/b8f26661-b06c-4b41-b733-cae243a624ed.jpeg",
+          "captured_at": "2026-10-24T01:05:13.768923+00:00",
+          "sha256": "d43ac9ff8ae76a183414acff5540b89996cb503f767de57eb964f1da34cd0b1b"
+        },
+        {
+          "index": 38,
+          "room": "kitchen",
+          "path": "data/photo-review/1211851865295336955/038.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1211851865295336955/original/744bc3be-3acf-4494-bcac-3d24ff8dbae3.jpeg",
+          "captured_at": "2026-10-24T01:05:13.768923+00:00",
+          "sha256": "909405f4321558f74767d93168553eb9025731a741dc4835e072984c824d4442"
+        },
+        {
+          "index": 23,
+          "room": "sleeping",
+          "path": "data/photo-review/1211851865295336955/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1211851865295336955/original/28a53b2a-5b9b-46e6-a565-2e689057709c.jpeg",
+          "captured_at": "2026-10-24T01:05:13.768923+00:00",
+          "sha256": "33f6cbd14d2c159dfc81049f2e61a0e665e8d1e99caec9c49a6529b803042e80"
+        },
+        {
+          "index": 35,
+          "room": "bathroom",
+          "path": "data/photo-review/1211851865295336955/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1211851865295336955/original/a09cdd20-2f03-4d4b-9411-3b0fe837c349.jpeg",
+          "captured_at": "2026-10-24T01:05:13.768923+00:00",
+          "sha256": "9d6c4c5e5675bff0fcec856433e3645463dd27930ab5974c61295aa9de2cb6ba"
+        }
+      ],
+      "rooms": {
+        "living": [
+          19
+        ],
+        "kitchen": [
+          38
+        ],
+        "sleeping": [
+          23
+        ],
+        "bathroom": [
+          35
+        ]
+      }
+    },
+    "1212479559190257750": {
+      "title": "Sauna, Bar, Big Patio, Hot Tub, Fire Pit & Pets",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 10,
+          "room": "living",
+          "path": "data/focused-photos/1212479559190257750/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1212479559190257750/original/427b8035-1891-4439-b944-b5c0a82f27cd.jpeg",
+          "captured_at": "2026-10-24T03:29:44.463201+00:00",
+          "sha256": "2f3a6a288eb22ff796159eaae3b712b068ac8e8795ae13222fbf2f05a0e019c6"
+        },
+        {
+          "index": 2,
+          "room": "kitchen",
+          "path": "data/focused-photos/1212479559190257750/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1212479559190257750/original/0f911082-1353-4ebc-9a52-24fccdfb3b1f.jpeg",
+          "captured_at": "2026-10-24T03:29:44.463201+00:00",
+          "sha256": "4d62c7c1f29ec8fa7de70163765d9007c5dffef23dbc7490743e52d2394fac98"
+        },
+        {
+          "index": 15,
+          "room": "sleeping",
+          "path": "data/focused-photos/1212479559190257750/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1212479559190257750/original/86d0e3dd-8082-4c76-b769-eeebf313e47a.jpeg",
+          "captured_at": "2026-10-24T03:29:44.463201+00:00",
+          "sha256": "5865d8708f688d288b379461c48829426777b293ec3e864ff6a28fd2a4fb0d61"
+        },
+        {
+          "index": 29,
+          "room": "bathroom",
+          "path": "data/focused-photos/1212479559190257750/029.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1212479559190257750/original/b7e37124-b678-4f4b-a58e-ab8f962e55b2.jpeg",
+          "captured_at": "2026-10-24T03:29:44.463201+00:00",
+          "sha256": "1e9f6d3dffe68091f066452d28fd4032a1c0b1d4b56d3ca558e4a88d4f0d0b04"
+        },
+        {
+          "index": 37,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1212479559190257750/037.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1212479559190257750/original/a3a97b58-1052-4251-af15-573596d8a4ad.jpeg",
+          "captured_at": "2026-10-24T03:51:41.453269+00:00",
+          "sha256": "ea8ca969d01c0c7e900d391310ddac39c3548fad017c34b8a800d3a327e40d4b"
+        }
+      ],
+      "rooms": {
+        "living": [
+          10
+        ],
+        "kitchen": [
+          2
+        ],
+        "sleeping": [
+          15
+        ],
+        "bathroom": [
+          29
+        ],
+        "outdoor": [
+          37
+        ]
+      }
+    },
+    "1165853461981582691": {
+      "title": "New Sauna, Deck, Hot Tub, Fire Pit, Pets, Jade",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 5,
+          "room": "living",
+          "path": "data/focused-photos/1165853461981582691/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/87e09596-bbe3-4684-8381-8da9582cb060.jpeg",
+          "captured_at": "2026-10-24T03:29:45.033187+00:00",
+          "sha256": "d98ca865add1d319943a97e44247af95a90a3f94dd2df52709159dee861a17a6"
+        },
+        {
+          "index": 9,
+          "room": "kitchen",
+          "path": "data/focused-photos/1165853461981582691/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/522f2b3f-b118-4c6d-b769-48b2615e9473.jpeg",
+          "captured_at": "2026-10-24T03:29:45.033187+00:00",
+          "sha256": "3e574a954d3fbfc4ff3bd1716067348c6798833d4d6e1913f14786dc501c759f"
+        },
+        {
+          "index": 19,
+          "room": "sleeping",
+          "path": "data/focused-photos/1165853461981582691/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/d7989083-aee4-4948-9ad7-bf3e0ce3bfab.jpeg",
+          "captured_at": "2026-10-24T03:29:45.033187+00:00",
+          "sha256": "f42ff31a9cb0f8dbc0177c8a97754524dfd2de594e91cb489ff58eee2c4a1ee2"
+        },
+        {
+          "index": 31,
+          "room": "bathroom",
+          "path": "data/focused-photos/1165853461981582691/031.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/ab193414-2548-47c4-9f74-a020dce81be7.jpeg",
+          "captured_at": "2026-10-24T03:29:45.033187+00:00",
+          "sha256": "bffcdf8ec7c1937ab3d77c674b21822c72f4c7e6ce45d318f0c5947e5f54dd9f"
+        },
+        {
+          "index": 1,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1165853461981582691/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/7885d4e8-4629-438d-87ac-b5930a32e7ee.jpeg",
+          "captured_at": "2026-10-24T03:51:41.455366+00:00",
+          "sha256": "a7476d0f443a38efdb98733082f1369e3fe8c958d658087af073cbbfa561e7aa"
+        },
+        {
+          "index": 34,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1165853461981582691/034.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1165853461981582691/original/af519b89-cc65-4615-a51e-a2a539d9d6d6.jpeg",
+          "captured_at": "2026-10-24T03:51:42.432420+00:00",
+          "sha256": "c87c8a4b5c42e2c95c55d3a1e40ceaf81fd82fc1c7f59dce9fe79298a4b79f6c"
+        }
+      ],
+      "rooms": {
+        "living": [
+          5
+        ],
+        "kitchen": [
+          9
+        ],
+        "sleeping": [
+          19
+        ],
+        "bathroom": [
+          31
+        ],
+        "outdoor": [
+          1,
+          34
+        ]
+      }
+    },
+    "717569932932257126": {
+      "title": "Cozy Spa Cabin: Sauna/Hot tub/Cold Plunge/EV",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/focused-photos/717569932932257126/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzE3NTY5OTMyOTMyMjU3MTI2/original/516dfd3b-d1bd-4dcd-b231-77f2d0640987.jpeg",
+          "captured_at": "2026-10-24T03:29:54.674893+00:00",
+          "sha256": "4227c2a9e16fceb030fb6e42117dc2a455fc1162eb35962b6c1bef88af574ee7"
+        },
+        {
+          "index": 26,
+          "room": "kitchen",
+          "path": "data/focused-photos/717569932932257126/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzE3NTY5OTMyOTMyMjU3MTI2/original/9501b81b-2081-4c53-aed3-b78bc541ded7.jpeg",
+          "captured_at": "2026-10-24T03:29:54.674893+00:00",
+          "sha256": "9f6b243ae9bedc6183351617e8839ea8f825b06c5c0f0cdba2713191f6089d56"
+        },
+        {
+          "index": 4,
+          "room": "sleeping",
+          "path": "data/focused-photos/717569932932257126/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzE3NTY5OTMyOTMyMjU3MTI2/original/590b1852-f83d-4c74-ae71-3f9da53464f1.jpeg",
+          "captured_at": "2026-10-24T03:29:54.674893+00:00",
+          "sha256": "ceaa9cda33c497c9cc11b013bea756f5936a001a8ddc5c5054bbca93c5fd74ae"
+        },
+        {
+          "index": 31,
+          "room": "bathroom",
+          "path": "data/focused-photos/717569932932257126/031.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NzE3NTY5OTMyOTMyMjU3MTI2/original/9525b928-b75f-4660-b5b8-c759ea519469.jpeg",
+          "captured_at": "2026-10-24T03:29:54.674893+00:00",
+          "sha256": "36a188d0fa552bf6d9b6a13f6c7968b4672404be423f4f115a20f263ac5a6f3d"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          26
+        ],
+        "sleeping": [
+          4
+        ],
+        "bathroom": [
+          31
+        ]
+      }
+    },
+    "1305332190082573810": {
+      "title": "Romantic Retreat with Cozy Sauna & Private Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/focused-photos/1305332190082573810/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305332190082573810/original/b697f3f6-0de2-4fa3-aef5-85bcbf063339.jpeg",
+          "captured_at": "2026-10-24T03:29:45.583730+00:00",
+          "sha256": "b3cf13765b2d89e9a4ad9f42b43e7a09d5db51b282dd4a55a201dc3cf06ec867"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/focused-photos/1305332190082573810/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305332190082573810/original/5a136dde-5734-4ac8-be54-af348cfdb145.jpeg",
+          "captured_at": "2026-10-24T03:29:45.583730+00:00",
+          "sha256": "137de8752862cc40f1388b3043dcabdaeefa67d29968383b859a4b9adbc9bfd7"
+        },
+        {
+          "index": 16,
+          "room": "sleeping",
+          "path": "data/focused-photos/1305332190082573810/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305332190082573810/original/e255d0ad-34ed-4eac-b3cb-79ebe771ffd5.jpeg",
+          "captured_at": "2026-10-24T03:29:45.583730+00:00",
+          "sha256": "2279e1474f78f7ee3d4816859cf315af2731c8f2d7af22abf79edf0d749d4fe3"
+        },
+        {
+          "index": 21,
+          "room": "bathroom",
+          "path": "data/focused-photos/1305332190082573810/021.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1305332190082573810/original/4a3be189-ba0a-467d-a613-6eb1777ee59e.jpeg",
+          "captured_at": "2026-10-24T03:29:45.583730+00:00",
+          "sha256": "a9d4eac9da917ca397e0f0ab377e46ff24f940f43e4c9e36a8cc98b3fee61aa7"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          16
+        ],
+        "bathroom": [
+          21
+        ]
+      }
+    },
+    "52836613": {
+      "title": "NEW Kink Cabin w/ Private Creek",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 7,
+          "room": "living",
+          "path": "data/photo-review/52836613/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52836613/original/33ee330b-8d2e-44d4-8448-17b321d35409.png",
+          "captured_at": "2026-10-24T00:22:21.328639+00:00",
+          "sha256": "be5a8527df8c3ac24de73d502d7c26d92758d5dc531d8911c52ce8314a8898f8"
+        },
+        {
+          "index": 17,
+          "room": "kitchen",
+          "path": "data/photo-review/52836613/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52836613/original/9b842f9b-7cff-479d-b458-3fa76db436b4.png",
+          "captured_at": "2026-10-24T00:22:21.328639+00:00",
+          "sha256": "eefbe1076fbd8c0e175feee51bb1a9375bff9ef038ca9d88827f6f849ee5c003"
+        },
+        {
+          "index": 19,
+          "room": "sleeping",
+          "path": "data/photo-review/52836613/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52836613/original/5ba48075-e7cb-47d0-9edb-76c5ab94dbd9.png",
+          "captured_at": "2026-10-24T00:22:21.328639+00:00",
+          "sha256": "a1e9caca7574b4368a9fa962c41fbb86f2763cc3186d993ad383e1e06bf38469"
+        },
+        {
+          "index": 35,
+          "room": "bathroom",
+          "path": "data/photo-review/52836613/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52836613/original/a496db1b-5d5d-493a-814c-70211ee84124.png",
+          "captured_at": "2026-10-24T00:22:21.328639+00:00",
+          "sha256": "1cecb14b12ffcf25a7a8bb7a3e11d8d1059b472fdd14d0ff17d180c47ae1d32d"
+        },
+        {
+          "index": 33,
+          "room": "playroom",
+          "path": "data/comparison-photos/52836613/033.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-52836613/original/777bd937-5591-4f96-9423-9f34b51606a9.png",
+          "captured_at": "2026-10-25T20:48:45.561506+00:00",
+          "sha256": "6b771c6104f66ff6dc22fcd051bba3bcbb67584e0247caa678f30f2b7206a7f2"
+        }
+      ],
+      "rooms": {
+        "living": [
+          7
+        ],
+        "kitchen": [
+          17
+        ],
+        "sleeping": [
+          19
+        ],
+        "bathroom": [
+          35
+        ],
+        "playroom": [
+          33
+        ]
+      }
+    },
+    "1389896329658316854": {
+      "title": "Reflections:  An Elevated Mountain Experience",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 31,
+          "room": "living",
+          "path": "data/photo-review/1389896329658316854/031.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1389896329658316854/original/e5df0916-804e-491b-8e98-164398f6d3fb.jpeg",
+          "captured_at": "2026-10-24T00:22:13.985530+00:00",
+          "sha256": "eacfd7670687c2f61abd7f33c359e7f87e9a0923bc3e568753e7c9d23592cda1"
+        },
+        {
+          "index": 33,
+          "room": "kitchen",
+          "path": "data/photo-review/1389896329658316854/033.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1389896329658316854/original/5c9b04c7-3a00-4bb1-a580-57bcb71fd79d.jpeg",
+          "captured_at": "2026-10-24T00:22:13.985530+00:00",
+          "sha256": "ec50f1b14407bcb4b3481b6bcb37b40098c52d98897fbc2e12f34d718d9a9c4e"
+        },
+        {
+          "index": 2,
+          "room": "sleeping",
+          "path": "data/photo-review/1389896329658316854/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1389896329658316854/original/489e4dc8-4788-427b-8c41-70d9349f75c4.jpeg",
+          "captured_at": "2026-10-24T00:22:13.985530+00:00",
+          "sha256": "8ba08e2742cbacc557d48417e28a03ac7e88b51b30b227a7452fb0788dadafb2"
+        },
+        {
+          "index": 10,
+          "room": "bathroom",
+          "path": "data/photo-review/1389896329658316854/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1389896329658316854/original/30d1ad7a-0927-49fa-b2a3-6becce6f93ce.jpeg",
+          "captured_at": "2026-10-24T00:22:13.985530+00:00",
+          "sha256": "f7b3b09012ef0820bdbf1c43ef2f9bc9e69efb64f041ed2f26e9a5d99983c662"
+        }
+      ],
+      "rooms": {
+        "living": [
+          31
+        ],
+        "kitchen": [
+          33
+        ],
+        "sleeping": [
+          2
+        ],
+        "bathroom": [
+          10
+        ]
+      }
+    },
+    "1411745208958955975": {
+      "title": "Couples FALL Escape | Sauna, Hot Tub, Private Deck",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 26,
+          "room": "living",
+          "path": "data/photo-review/1411745208958955975/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1411745208958955975/original/322b519d-cf70-4d88-856b-92d9268d35aa.jpeg",
+          "captured_at": "2026-10-24T01:02:26.038814+00:00",
+          "sha256": "3001881db4b3df9b5072f5102dbfb4499f173af696e05eab7fbefd69c0d30817"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/1411745208958955975/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1411745208958955975/original/62e4748a-0248-4d42-b9c2-01c31d88bb9f.jpeg",
+          "captured_at": "2026-10-24T01:02:26.038814+00:00",
+          "sha256": "0333390129b6953348a81c87b85ddd2d2da18997dda5fbd2b6768a8ed84a7a1d"
+        },
+        {
+          "index": 3,
+          "room": "sleeping",
+          "path": "data/photo-review/1411745208958955975/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1411745208958955975/original/a4ac664d-80e3-43f5-8be1-f25fcd3be3b5.jpeg",
+          "captured_at": "2026-10-24T01:02:26.038814+00:00",
+          "sha256": "29d9e915fc19896e83ad0252e4cc8275657e7621d603909b0eb2f61c636d4dff"
+        },
+        {
+          "index": 12,
+          "room": "bathroom",
+          "path": "data/photo-review/1411745208958955975/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1411745208958955975/original/79847ff1-2879-4140-9c8d-2cc9a775faaa.jpeg",
+          "captured_at": "2026-10-24T01:02:26.038814+00:00",
+          "sha256": "e25c9c0850dc8212beca311cafb629e52e0440b4e64547ad0830a88d2a3f8b8c"
+        }
+      ],
+      "rooms": {
+        "living": [
+          26
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          3
+        ],
+        "bathroom": [
+          12
+        ]
+      }
+    },
+    "628328614418185004": {
+      "title": "Stardust Mountain Cabin—upscale hideaway for 2!",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 6,
+          "room": "living",
+          "path": "data/photo-review/628328614418185004/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-628328614418185004/original/0cbfb1f1-2f91-436f-a30e-42c44adee4d7.jpeg",
+          "captured_at": "2026-10-24T01:05:07.822862+00:00",
+          "sha256": "9a25dd46a612bf8b1761e8b0ebe4b6c7d6bb4f55b0f378eb0b20559b6df7a98e"
+        },
+        {
+          "index": 7,
+          "room": "kitchen",
+          "path": "data/photo-review/628328614418185004/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-628328614418185004/original/17759e94-1491-4f75-9ff3-0bbf1d39aa9d.jpeg",
+          "captured_at": "2026-10-24T01:05:07.822862+00:00",
+          "sha256": "fd8825a0a6ba95c81a300a48c407483973d4bc6d45747f4388e448da9bcebdf0"
+        },
+        {
+          "index": 11,
+          "room": "sleeping",
+          "path": "data/photo-review/628328614418185004/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NjI4MzI4NjE0NDE4MTg1MDA0/original/ae0b5790-bd6e-4c17-bace-c9ac0e68983b.jpeg",
+          "captured_at": "2026-10-24T01:05:07.822862+00:00",
+          "sha256": "18b38d1deb0c752beef86b5978b98e5403a3a2da1edada2e544a7e57f1de98f3"
+        },
+        {
+          "index": 22,
+          "room": "bathroom",
+          "path": "data/photo-review/628328614418185004/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-628328614418185004/original/8e8e6dae-0840-4b91-bc67-3d876456d6c9.jpeg",
+          "captured_at": "2026-10-24T01:05:07.822862+00:00",
+          "sha256": "377198c41277fa5e6cbb175fcdafd3ac948ae9135dc94ecdec2c291aec033e11"
+        }
+      ],
+      "rooms": {
+        "living": [
+          6
+        ],
+        "kitchen": [
+          7
+        ],
+        "sleeping": [
+          11
+        ],
+        "bathroom": [
+          22
+        ]
+      }
+    },
+    "1580480009533002152": {
+      "title": "Epic Couples Getaway• Epic Mountain Views• HotTub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1580480009533002152/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/be88a620-7ebd-4b7c-8a2d-f0ba3ce30e2b.jpeg",
+          "captured_at": "2026-10-26T00:22:53.014322+00:00",
+          "sha256": "a8160c1520a80be9f7c106af1c33572b70ac320853fe43d24e8d1709165a8dec"
+        },
+        {
+          "index": 12,
+          "room": "living",
+          "path": "data/comparison-photos/1580480009533002152/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/e49b2c0c-3b82-40b9-8109-6ef603ca2dda.jpeg",
+          "captured_at": "2026-10-26T00:36:16.166328+00:00",
+          "sha256": "a7c1cca6137d38933e412349f2288bec6b6a15391e3016555a5d87d457897fe8"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/1580480009533002152/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/67ec14b9-26f1-4892-ab84-33cf549c2f8a.jpeg",
+          "captured_at": "2026-10-26T00:22:53.014322+00:00",
+          "sha256": "099063df61450d73684143ffbde44013d0829d70883389be80e1902d865d97fb"
+        },
+        {
+          "index": 8,
+          "room": "sleeping",
+          "path": "data/photo-review/1580480009533002152/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/38285853-ac74-42e1-b5c0-df20f4c1495f.jpeg",
+          "captured_at": "2026-10-26T00:22:53.014322+00:00",
+          "sha256": "8d53faecc3cef64390ea738623a9881d0a58aa8b3ddc9e9bebfaeffcab58daae"
+        },
+        {
+          "index": 14,
+          "room": "bathroom",
+          "path": "data/photo-review/1580480009533002152/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/970098e9-c238-4a52-9160-4c0987482103.jpeg",
+          "captured_at": "2026-10-26T00:22:53.014322+00:00",
+          "sha256": "223e673529cdd6b970f6ee4700ff292a3840ce2ff625c9d4639f0dca319f340b"
+        },
+        {
+          "index": 15,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1580480009533002152/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/dc45c90f-00c8-4a0c-a1eb-38eac051b085.jpeg",
+          "captured_at": "2026-10-26T00:36:19.617527+00:00",
+          "sha256": "34cbbdb13e8160040b7c98f9282ce97bba5e35d35b47815659d3cf589cc00304"
+        },
+        {
+          "index": 21,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1580480009533002152/021.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1580480009533002152/original/8b249e84-0f16-4b41-b25b-3bca2ee61ce5.jpeg",
+          "captured_at": "2026-10-26T00:36:21.830383+00:00",
+          "sha256": "458baeeda66395ba47497778ca6d853cb2f678f935b3881db2525c9bc9623364"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1,
+          12
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          8
+        ],
+        "bathroom": [
+          14,
+          15
+        ],
+        "outdoor": [
+          21
+        ]
+      }
+    },
+    "1078989244004545995": {
+      "title": "NEW! SEXY Cabin~Adult Getaway",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 10,
+          "room": "kitchen",
+          "path": "data/photo-review/1078989244004545995/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1078989244004545995/original/7cd9b2c7-a9fd-434d-b8da-9cdf9d7a07ab.jpeg",
+          "captured_at": "2026-10-24T00:21:08.215831+00:00",
+          "sha256": "a714e327692130f29971dabd744794ecb3f21fa53e2d93929e26cf21255d0860"
+        },
+        {
+          "index": 1,
+          "room": "sleeping",
+          "path": "data/photo-review/1078989244004545995/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1078989244004545995/original/2fa4cec0-a7c4-4098-869e-85a8e93a7147.jpeg",
+          "captured_at": "2026-10-24T00:21:08.215831+00:00",
+          "sha256": "3d34912a7e2f8ed60e46e378c442c7eb070b08f9827c6daa49646dc68ecead01"
+        },
+        {
+          "index": 9,
+          "room": "bathroom",
+          "path": "data/photo-review/1078989244004545995/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1078989244004545995/original/01d15814-3ede-4e47-afb6-d620ba9af17a.jpeg",
+          "captured_at": "2026-10-24T00:21:08.215831+00:00",
+          "sha256": "d3a2435512f78fa9d74c8b0c7b6dd50b71c5e5706af3e8cfe2761fb1a5b08b34"
+        },
+        {
+          "index": 6,
+          "room": "outdoor",
+          "path": "data/photo-review/1078989244004545995/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1078989244004545995/original/3ebb9fed-7c8d-4ec6-b410-5a8886cbc8e3.jpeg",
+          "captured_at": "2026-10-24T00:21:08.215831+00:00",
+          "sha256": "70ea380e6183796eba0bc6d911be7cc0a77f9bef15495cf0fd50dd80b77f6b99"
+        }
+      ],
+      "rooms": {
+        "kitchen": [
+          10
+        ],
+        "sleeping": [
+          1
+        ],
+        "bathroom": [
+          9
+        ],
+        "outdoor": [
+          6
+        ]
+      }
+    },
+    "850200979559992302": {
+      "title": "Couples Romantic Cabin! Hot Tub, Pizza Oven",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/850200979559992302/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-850200979559992302/original/9daca38c-63d5-4e13-ad81-8494d2a6fae8.jpeg",
+          "captured_at": "2026-10-24T00:21:09.163158+00:00",
+          "sha256": "537e49e039577ed944e22239ea253e2b970565b70e2e2fb999250c590f4298bc"
+        },
+        {
+          "index": 12,
+          "room": "kitchen",
+          "path": "data/photo-review/850200979559992302/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-850200979559992302/original/ee22865c-b891-4b96-a02b-92135476c8c1.jpeg",
+          "captured_at": "2026-10-24T00:21:09.163158+00:00",
+          "sha256": "4f9c03957d3659c75879df88ed2343ac4dcae4a9253d40798359fba58983874f"
+        },
+        {
+          "index": 19,
+          "room": "sleeping",
+          "path": "data/photo-review/850200979559992302/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-850200979559992302/original/5a25c3ba-dc6c-4daf-8452-5b24c4a1fae0.jpeg",
+          "captured_at": "2026-10-24T00:21:09.163158+00:00",
+          "sha256": "53c0e9729d3c209b437127b730e5077d6cddf0da0fc86a8ef6b100cc17e25ac4"
+        },
+        {
+          "index": 4,
+          "room": "bathroom",
+          "path": "data/photo-review/850200979559992302/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-850200979559992302/original/4f1f89c8-3cd0-4629-9784-103d469e27f9.jpeg",
+          "captured_at": "2026-10-24T00:21:09.163158+00:00",
+          "sha256": "346a00187a6029b7c625dcbdaf8e725aab8940c1feedbf341933f1adc251aef9"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          12
+        ],
+        "sleeping": [
+          19
+        ],
+        "bathroom": [
+          4
+        ]
+      }
+    },
+    "992052390688023933": {
+      "title": "Romantic Luxury Getaway - Spa Bath/HotTub/Fire Pit",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/992052390688023933/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-992052390688023933/original/dc057bce-bbf1-4a49-88eb-632c8a85622e.jpeg",
+          "captured_at": "2026-10-24T00:21:08.946045+00:00",
+          "sha256": "e9ca4b708305c4b215246c2150cabdab5ad9ffec4ffd88dba7dcd13d5d860ccc"
+        },
+        {
+          "index": 7,
+          "room": "kitchen",
+          "path": "data/photo-review/992052390688023933/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-992052390688023933/original/4adcb685-b2aa-400c-b6f6-e3fed13b3ebc.jpeg",
+          "captured_at": "2026-10-24T00:21:08.946045+00:00",
+          "sha256": "2adbe7992a8066fa37e2e1a136d53d267e9aba5120dfc2b973482425713db6d2"
+        },
+        {
+          "index": 14,
+          "room": "sleeping",
+          "path": "data/photo-review/992052390688023933/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-992052390688023933/original/56bb2820-1f71-4e04-ba8a-772dcd94464a.jpeg",
+          "captured_at": "2026-10-24T00:21:08.946045+00:00",
+          "sha256": "09ef184d9245b5e4b8245664127a45f7fc6fe89ffc7a27f3a9562dd98bef619a"
+        },
+        {
+          "index": 16,
+          "room": "bathroom",
+          "path": "data/photo-review/992052390688023933/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-992052390688023933/original/9b97316b-2dc0-4c41-8ad4-d2d3c0aa0c78.jpeg",
+          "captured_at": "2026-10-24T00:21:08.946045+00:00",
+          "sha256": "277e56de729c9086a886d61e60650c7662d774d09e5731162f1b70c70e848859"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          7
+        ],
+        "sleeping": [
+          14
+        ],
+        "bathroom": [
+          16
+        ]
+      }
+    },
+    "1099264326199695653": {
+      "title": "Wild Horses Honeymoon Cabin Sunrise Views Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1099264326199695653/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1099264326199695653/original/848b1ff2-af13-444b-855d-67bc7a43aad6.jpeg",
+          "captured_at": "2026-10-26T00:22:42.560356+00:00",
+          "sha256": "f92a4a464c9862aad01c8a655d78247fddd0e5e2348c46e0475423e54b429479"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/comparison-photos/1099264326199695653/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1099264326199695653/original/9a042818-2f6a-44a0-a385-1597fd0d9999.jpeg",
+          "captured_at": "2026-10-26T00:36:16.193012+00:00",
+          "sha256": "8cc2de2851c31c5cc3fc2c9c4453f8da24ed9a8e4ffde5f0344f51cc4fe614d6"
+        },
+        {
+          "index": 8,
+          "room": "sleeping",
+          "path": "data/photo-review/1099264326199695653/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1099264326199695653/original/1ac73216-ec45-4a5f-a57f-00e36756f96b.jpeg",
+          "captured_at": "2026-10-26T00:22:42.560356+00:00",
+          "sha256": "0502cbbdae1f0723e86b2c6ffea2ee2a0a7babedf906c48060ed9057e717c989"
+        },
+        {
+          "index": 13,
+          "room": "bathroom",
+          "path": "data/photo-review/1099264326199695653/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1099264326199695653/original/38a39cd6-08f5-4a21-98ca-cabb38d8f889.jpeg",
+          "captured_at": "2026-10-26T00:22:42.560356+00:00",
+          "sha256": "2fad1cf62cb5a1a804455a32f71ce09ff095351cb3cab2e497c4f83fbfb61c7a"
+        },
+        {
+          "index": 25,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1099264326199695653/025.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1099264326199695653/original/906b8b03-131f-4de6-9603-8eaf92c1e767.jpeg",
+          "captured_at": "2026-10-26T00:36:19.760339+00:00",
+          "sha256": "cc96e23f3d9582877a00425a1345fe02b3f0769391e3d986f2eecbe768f84fab"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          8
+        ],
+        "bathroom": [
+          13
+        ],
+        "outdoor": [
+          25
+        ]
+      }
+    },
+    "1446463718957252350": {
+      "title": "New Couples Cabin*Fireplace*Hot Tub*Grill*Games",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 5,
+          "room": "living",
+          "path": "data/photo-review/1446463718957252350/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1446463718957252350/original/20b84eb9-38a8-45d7-a907-7e970b392f07.jpeg",
+          "captured_at": "2026-10-26T00:22:51.402813+00:00",
+          "sha256": "bc615faebbc9da605bae7623c084d86289886222ffd4add17b5a3cdf030eafa1"
+        },
+        {
+          "index": 13,
+          "room": "kitchen",
+          "path": "data/comparison-photos/1446463718957252350/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ0NjQ2MzcxODk1NzI1MjM1MA==/original/78675df9-1ae4-4f24-91a5-8dfef4bdc4d0.jpeg",
+          "captured_at": "2026-10-26T00:36:16.193284+00:00",
+          "sha256": "1c1e3c77990b43343bbc61cfcbdc8ffcada43c69c23ba8af82c2557ad3e63b13"
+        },
+        {
+          "index": 18,
+          "room": "sleeping",
+          "path": "data/photo-review/1446463718957252350/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ0NjQ2MzcxODk1NzI1MjM1MA==/original/32c6487b-dc6e-4874-aab3-18a670b683ed.jpeg",
+          "captured_at": "2026-10-26T00:22:51.402813+00:00",
+          "sha256": "fe51df09ef1ff4ff34702f3ef74a30793d5eed8070a3c91b2cd6e2d067dea3df"
+        },
+        {
+          "index": 22,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1446463718957252350/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ0NjQ2MzcxODk1NzI1MjM1MA==/original/247db434-956d-4f0f-8521-f4a2d775dd41.jpeg",
+          "captured_at": "2026-10-26T00:36:18.847980+00:00",
+          "sha256": "f1f6fc01c76ad8b833123044888bbbffa705f5aa5602cf87b3402ec5bcf71729"
+        },
+        {
+          "index": 38,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1446463718957252350/038.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ0NjQ2MzcxODk1NzI1MjM1MA==/original/4c5ad066-30f5-4835-968f-b1a1dc12fc0c.jpeg",
+          "captured_at": "2026-10-26T00:36:20.859990+00:00",
+          "sha256": "2a7d5e4350a73bd89d918dd520bef8073b0a90fd027e190e9450839e9f92e72f"
+        }
+      ],
+      "rooms": {
+        "living": [
+          5
+        ],
+        "kitchen": [
+          13
+        ],
+        "sleeping": [
+          18
+        ],
+        "bathroom": [
+          22
+        ],
+        "outdoor": [
+          38
+        ]
+      }
+    },
+    "1126713605050298701": {
+      "title": "Limited Nights Left Top Rated Adults Only Cabin",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 5,
+          "room": "living",
+          "path": "data/photo-review/1126713605050298701/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126713605050298701/original/cc2b2525-b59d-4a11-8fcd-51cce07ebb73.jpeg",
+          "captured_at": "2026-10-24T00:21:16.340142+00:00",
+          "sha256": "a0479ad44865c3f22ee450f754a3ca61d76c66b299d31c25d787a9fd06bfcbbc"
+        },
+        {
+          "index": 27,
+          "room": "kitchen",
+          "path": "data/comparison-photos/1126713605050298701/027.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126713605050298701/original/652603fd-e723-40fc-8a77-03081bb43d41.jpeg",
+          "captured_at": "2026-10-25T20:48:45.566754+00:00",
+          "sha256": "babc5faf6b5c3643289ad532b7c319c0a65782d8fadd440c00c65200f55a862a"
+        },
+        {
+          "index": 2,
+          "room": "sleeping",
+          "path": "data/comparison-photos/1126713605050298701/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1126713605050298701/original/b521cea3-f52c-49ef-989b-aa735778affb.jpeg",
+          "captured_at": "2026-10-25T20:48:45.567775+00:00",
+          "sha256": "22022703a7018697740ccc6fe0e4349b6d80fa93b360ec1040769b81fff617de"
+        },
+        {
+          "index": 7,
+          "room": "bathroom",
+          "path": "data/photo-review/1126713605050298701/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126713605050298701/original/fc507e7e-4bff-4f3e-8e92-a4a00f259a5a.jpeg",
+          "captured_at": "2026-10-24T00:21:16.340142+00:00",
+          "sha256": "3a3e5a689f3fdc1457e471098dea65c7fe3a8fcd7a09fa52859d0a3f70508ce5"
+        },
+        {
+          "index": 1,
+          "room": "outdoor",
+          "path": "data/photo-review/1126713605050298701/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126713605050298701/original/b6ce9033-1214-4bcd-95e5-b500eebdb6ab.jpeg",
+          "captured_at": "2026-10-24T00:21:16.340142+00:00",
+          "sha256": "f5ed5e597bd69c4e8ae397a3ae95554610df8cec452b6b062af6c78728cf7774"
+        }
+      ],
+      "rooms": {
+        "living": [
+          5
+        ],
+        "kitchen": [
+          27
+        ],
+        "sleeping": [
+          2
+        ],
+        "bathroom": [
+          7
+        ],
+        "outdoor": [
+          1
+        ]
+      }
+    },
+    "585766236224182859": {
+      "title": "Luxe Romantic Couples Cabin \"The Sweet Retreat\"",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/585766236224182859/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/65ec7d77-85e3-4a46-aaa1-ae8586c3e253.jpg",
+          "captured_at": "2026-10-24T01:05:08.297963+00:00",
+          "sha256": "c3e7e05c08f3eaee5a9b0b55208cf463a44be28910c1c17210ab5ee820686974"
+        },
+        {
+          "index": 7,
+          "room": "kitchen",
+          "path": "data/photo-review/585766236224182859/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/fde8dd4b-83c5-4eff-8de1-2d0ed83b1e24.jpg",
+          "captured_at": "2026-10-24T01:05:08.297963+00:00",
+          "sha256": "9a39a95d823fe2eda4674df260b335bfe0412cc40f9315332198ed2c8f249d75"
+        },
+        {
+          "index": 11,
+          "room": "sleeping",
+          "path": "data/photo-review/585766236224182859/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/264f442d-e606-4956-9478-181d33a7f794.jpg",
+          "captured_at": "2026-10-24T01:05:08.297963+00:00",
+          "sha256": "e6509172e055f78841cc61367f134f8a0d527d9eae7bb807918554547e116ed3"
+        },
+        {
+          "index": 15,
+          "room": "bathroom",
+          "path": "data/photo-review/585766236224182859/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-585766236224182859/original/2762b4b0-cd7f-49d5-9ee0-744c1ee5a9a6.jpeg",
+          "captured_at": "2026-10-24T01:05:08.297963+00:00",
+          "sha256": "5509ca8b78a4b0617d1bec55e3913fd82ab83f29f2492978e553fe4b13afcbde"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          7
+        ],
+        "sleeping": [
+          11
+        ],
+        "bathroom": [
+          15
+        ]
+      }
+    },
+    "1473559810945854851": {
+      "title": "Epic Romantic Oasis! Movie Theatre! 5 min to PF!",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1473559810945854851/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/874cc689-1a7a-4a84-b7d4-36519bf0d66d.jpeg",
+          "captured_at": "2026-10-25T20:35:59.677231+00:00",
+          "sha256": "33fa946f57acf16029cee743eeab6b59d7fd25ed1beee783772a18494ba10be6"
+        },
+        {
+          "index": 7,
+          "room": "kitchen",
+          "path": "data/photo-review/1473559810945854851/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/aaa3354c-8498-4dd1-a1cc-2eb25ede18f9.jpeg",
+          "captured_at": "2026-10-25T20:35:59.677231+00:00",
+          "sha256": "baab7af2e4207fee462319c14d070cbb25ba831a7fe0a9e47ae6bb8e276f0f97"
+        },
+        {
+          "index": 12,
+          "room": "sleeping",
+          "path": "data/photo-review/1473559810945854851/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/fd131ee8-0f28-4391-bee6-ade5ceb4badf.jpeg",
+          "captured_at": "2026-10-25T20:35:59.677231+00:00",
+          "sha256": "f158c4420dcf4e9405ba4a842126648753004442586f8e5d48db0fc011928f81"
+        },
+        {
+          "index": 18,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1473559810945854851/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/0f2db752-ad3e-4676-b703-2e0edadf6085.jpeg",
+          "captured_at": "2026-10-25T20:48:45.605372+00:00",
+          "sha256": "f027acfa771878895785084601275881fedfdc1857938cfa1fcecf094826ffe4"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          7
+        ],
+        "sleeping": [
+          12
+        ],
+        "bathroom": [
+          18
+        ]
+      }
+    },
+    "49074423": {
+      "title": "Pigeon Forge Cabin w/ Hot Tub: 1 Mi to Parkway",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 3,
+          "room": "living",
+          "path": "data/comparison-photos/49074423/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49074423/original/eb1cb22f-9bd4-4369-a4fd-8d4f76acd526.jpeg",
+          "captured_at": "2026-10-25T20:48:45.567461+00:00",
+          "sha256": "4f27bda826a4a8521bdcfdf2f5f3cb071e252af3b5c3907651a8b8e4f7e99353"
+        },
+        {
+          "index": 8,
+          "room": "kitchen",
+          "path": "data/comparison-photos/49074423/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49074423/original/a28306f8-8350-464e-9bb6-bea007c0ebd4.jpeg",
+          "captured_at": "2026-10-25T20:48:45.568166+00:00",
+          "sha256": "eebc8f3664fd4ec9bcc5d0d6d0d07f6fafb6306695888dc4053b156aa4568fec"
+        },
+        {
+          "index": 13,
+          "room": "sleeping",
+          "path": "data/photo-review/49074423/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49074423/original/0681bc41-852f-4bd8-abae-ca4840cb04e6.jpeg",
+          "captured_at": "2026-10-25T20:36:05.399089+00:00",
+          "sha256": "c16a1dda77999289550f3444bd3d2fdacc0cba48eb5f79563e330e6ad8c5130e"
+        },
+        {
+          "index": 17,
+          "room": "bathroom",
+          "path": "data/comparison-photos/49074423/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49074423/original/71ac1ec5-bbe3-404e-aaf2-e8a30f9b87e6.jpeg",
+          "captured_at": "2026-10-25T20:48:45.585428+00:00",
+          "sha256": "ff66caaf6204e770f1690ec7dce8f20a8845ce41d424c76dc088618a08ef6ce0"
+        },
+        {
+          "index": 19,
+          "room": "outdoor",
+          "path": "data/comparison-photos/49074423/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-49074423/original/fdb39fc2-61eb-4b4f-9e76-d8a14bf38803.jpeg",
+          "captured_at": "2026-10-25T20:48:46.562141+00:00",
+          "sha256": "cb6165050cfec4ef09dfb9550be239d653ef8fa49597ee581c0d291cb6c97c1a"
+        }
+      ],
+      "rooms": {
+        "living": [
+          3
+        ],
+        "kitchen": [
+          8
+        ],
+        "sleeping": [
+          13
+        ],
+        "bathroom": [
+          17
+        ],
+        "outdoor": [
+          19
+        ]
+      }
+    },
+    "1269644694150006162": {
+      "title": "NEW! SEXY Cabin~ Adult Getaway",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 5,
+          "room": "living",
+          "path": "data/photo-review/1269644694150006162/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1269644694150006162/original/f08675e5-07ad-461d-923a-fc69e7cc56ed.jpeg",
+          "captured_at": "2026-10-24T00:21:24.779329+00:00",
+          "sha256": "68e17e83f4ce517b7b4ab0748e4b55e49fe71ae0de5ba9d3582cc9853cf97683"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/1269644694150006162/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1269644694150006162/original/f400081b-f48d-4a25-8d41-cd9642bf1455.jpeg",
+          "captured_at": "2026-10-24T00:21:24.779329+00:00",
+          "sha256": "b0a1acea5cdbf50e6ab73438e93f26a1c653db42372a2021ba84db0f8bec6e0b"
+        },
+        {
+          "index": 8,
+          "room": "bathroom",
+          "path": "data/photo-review/1269644694150006162/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1269644694150006162/original/237141ed-3de1-44cd-8fcc-1a310250e552.jpeg",
+          "captured_at": "2026-10-24T00:21:24.779329+00:00",
+          "sha256": "3dd9a88108e1b019217353abeeb166cb253c41e21bd71d1f3c10f60e6e4fd566"
+        },
+        {
+          "index": 11,
+          "room": "playroom",
+          "path": "data/photo-review/1269644694150006162/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1269644694150006162/original/5f0855d5-d32a-459a-8b21-304366e41de0.jpeg",
+          "captured_at": "2026-10-24T00:21:24.779329+00:00",
+          "sha256": "b777fb7fc1c3dc48a7194e8f0bb8b06e024be2d3cb694cf46444bf71694acc59"
+        },
+        {
+          "index": 3,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1269644694150006162/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1269644694150006162/original/e4b75147-bbdd-4793-a158-2da21228bd63.jpeg",
+          "captured_at": "2026-10-25T20:48:45.574095+00:00",
+          "sha256": "3ed55d2251f3eeb3abe102d995c3b40de067a2ef28ca3372be6f9c77a3e9e11c"
+        }
+      ],
+      "rooms": {
+        "living": [
+          5
+        ],
+        "kitchen": [
+          6
+        ],
+        "bathroom": [
+          8
+        ],
+        "playroom": [
+          11
+        ],
+        "outdoor": [
+          3
+        ]
+      }
+    },
+    "1301532107419066204": {
+      "title": "Smokey Mountain Views- Hot tub, Firepit, King Bed",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 7,
+          "room": "living",
+          "path": "data/photo-review/1301532107419066204/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1301532107419066204/original/323cdc59-d2d9-4ef4-b34b-dae834b1f893.jpeg",
+          "captured_at": "2026-10-24T00:21:55.739506+00:00",
+          "sha256": "1c9efceb4959663189b70830ad2ec72db6d8c9d3e84a9764876b4afe27a86eb5"
+        },
+        {
+          "index": 19,
+          "room": "kitchen",
+          "path": "data/photo-review/1301532107419066204/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1301532107419066204/original/692a6cd0-8452-46d3-87af-5fcf818566e3.jpeg",
+          "captured_at": "2026-10-24T00:21:55.739506+00:00",
+          "sha256": "1ce1d549fc6515d74e5cd95ea7ad13850bd8dea47397aa6a362409e7d91e6ecf"
+        },
+        {
+          "index": 24,
+          "room": "sleeping",
+          "path": "data/photo-review/1301532107419066204/024.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwMTUzMjEwNzQxOTA2NjIwNA%3D%3D/original/ea22da95-ea0f-4189-851f-a8a2a0b81276.jpeg",
+          "captured_at": "2026-10-24T00:21:55.739506+00:00",
+          "sha256": "5d41cde587532cfb0a636221dd591c38420e2161f46a3fe6dd36bb3c42c12e0a"
+        },
+        {
+          "index": 28,
+          "room": "bathroom",
+          "path": "data/photo-review/1301532107419066204/028.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTMwMTUzMjEwNzQxOTA2NjIwNA%3D%3D/original/e4613d36-3ecf-46f6-afef-d4d61e621d77.jpeg",
+          "captured_at": "2026-10-24T00:21:55.739506+00:00",
+          "sha256": "c9fbaee3aabade7abd517276b5c0847bfc01bedd6c1b1a142f3882230022e35b"
+        }
+      ],
+      "rooms": {
+        "living": [
+          7
+        ],
+        "kitchen": [
+          19
+        ],
+        "sleeping": [
+          24
+        ],
+        "bathroom": [
+          28
+        ]
+      }
+    },
+    "1313102599843276637": {
+      "title": "Adult Theme|BDSM|Views|Indoor Jacuzzi",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 40,
+          "room": "living",
+          "path": "data/comparison-photos/1313102599843276637/040.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313102599843276637/original/10be1044-8dd7-47c8-8672-4a2cda060067.jpeg",
+          "captured_at": "2026-10-25T20:48:45.573650+00:00",
+          "sha256": "f4b938d420e06ed5ad2a250533d6d417ffda215d24a69485ef583c936a11963c"
+        },
+        {
+          "index": 19,
+          "room": "kitchen",
+          "path": "data/photo-review/1313102599843276637/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313102599843276637/original/c20304d3-5e1a-4750-a22d-504966cc49fd.jpeg",
+          "captured_at": "2026-10-24T00:21:29.011738+00:00",
+          "sha256": "79c180cb11e19991303792aaa292c76868b63d0d9ae896715b41905f9f83fc8b"
+        },
+        {
+          "index": 7,
+          "room": "sleeping",
+          "path": "data/photo-review/1313102599843276637/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313102599843276637/original/6208e1aa-a2aa-4960-8bec-e422a07cd636.jpeg",
+          "captured_at": "2026-10-24T00:21:29.011738+00:00",
+          "sha256": "c3b79d19d47d7b419617837c8f7effe4230ad65536c1c463ee50734679cfa1c1"
+        },
+        {
+          "index": 16,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1313102599843276637/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313102599843276637/original/3e12b437-7840-4be3-b34a-6972f767edc5.jpeg",
+          "captured_at": "2026-10-25T20:48:45.576350+00:00",
+          "sha256": "94a68eb7ea740ad9494f5a47f2cd0bc6551a592c288809c929cabc97c4120548"
+        },
+        {
+          "index": 36,
+          "room": "playroom",
+          "path": "data/comparison-photos/1313102599843276637/036.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1313102599843276637/original/7e5afa5f-9d53-4a26-86aa-4be9467a518e.jpeg",
+          "captured_at": "2026-10-25T20:48:45.577024+00:00",
+          "sha256": "5d0e3e746ab65945392560c6ee90fafa3a8b3692cb5fd3e9aa2ddc4869847517"
+        },
+        {
+          "index": 5,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1313102599843276637/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1313102599843276637/original/d029232a-c734-44dc-93a0-864614357825.png",
+          "captured_at": "2026-10-25T20:48:45.577588+00:00",
+          "sha256": "46eaff6955a30e37e9bd54a1689c9c97433edf10c77558f1bdf2d81133defead"
+        }
+      ],
+      "rooms": {
+        "living": [
+          40
+        ],
+        "kitchen": [
+          19
+        ],
+        "sleeping": [
+          7
+        ],
+        "bathroom": [
+          16
+        ],
+        "playroom": [
+          36
+        ],
+        "outdoor": [
+          5
+        ]
+      }
+    },
+    "578830589879000277": {
+      "title": "Luna - Romantic Luxury Couples Cabin with Hot Tub!",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/578830589879000277/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTc4ODMwNTg5ODc5MDAwMjc3/original/01c29c3a-f2c0-4a58-b95c-3f21f0439342.jpeg",
+          "captured_at": "2026-10-24T00:22:19.502370+00:00",
+          "sha256": "9d8d8484177d59b1f4f66943e3009e90c4f6ab71a1dbddae73e566fdf026900c"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/578830589879000277/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTc4ODMwNTg5ODc5MDAwMjc3/original/ea785e8a-a488-4642-a1aa-1d1ae492b63a.jpeg",
+          "captured_at": "2026-10-24T00:22:19.502370+00:00",
+          "sha256": "861fbfdc9f176f28f78cce4b8ba922edb5bef7407cc22f6a228bd55c3fe59016"
+        },
+        {
+          "index": 12,
+          "room": "sleeping",
+          "path": "data/photo-review/578830589879000277/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTc4ODMwNTg5ODc5MDAwMjc3/original/a72dc341-05b5-4b22-9223-7a3d01c8dd63.jpeg",
+          "captured_at": "2026-10-24T00:22:19.502370+00:00",
+          "sha256": "b16e9ed328aa6b6805675172061b9a727a5360ec2be1146425ea5252647cbbeb"
+        },
+        {
+          "index": 17,
+          "room": "bathroom",
+          "path": "data/photo-review/578830589879000277/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTc4ODMwNTg5ODc5MDAwMjc3/original/e33eb99c-a89f-41f3-b970-129efb6b4536.jpeg",
+          "captured_at": "2026-10-24T00:22:19.502370+00:00",
+          "sha256": "9cd4cf8c75c660cf268f67f6db99078a61f67aafd590adbc9cbd9ce186adcae1"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          12
+        ],
+        "bathroom": [
+          17
+        ]
+      }
+    },
+    "1299225493640477740": {
+      "title": "REhaus | Couples Retreat | Near DT | Dogs Wlcm",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/photo-review/1299225493640477740/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1299225493640477740/original/147b965a-7640-4870-801a-962e81d364ee.jpeg",
+          "captured_at": "2026-10-24T00:21:33.549547+00:00",
+          "sha256": "00e6459ce722ab932d28988ae09031a7b670773f610e95c2fa9f56d88288fb11"
+        },
+        {
+          "index": 22,
+          "room": "kitchen",
+          "path": "data/photo-review/1299225493640477740/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1299225493640477740/original/1969b77f-ddb8-4e7c-8427-3c946e2d94ff.jpeg",
+          "captured_at": "2026-10-24T00:21:33.549547+00:00",
+          "sha256": "2b09cd2c353447baf6bab8ac3e072896707b4743a423525e3d5cb354d14c9c7c"
+        },
+        {
+          "index": 26,
+          "room": "sleeping",
+          "path": "data/photo-review/1299225493640477740/026.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTI5OTIyNTQ5MzY0MDQ3Nzc0MA%3D%3D/original/27416539-a40e-47ee-a6c5-e866eff32468.jpeg",
+          "captured_at": "2026-10-24T00:21:33.549547+00:00",
+          "sha256": "27f61d4595016e8eda13d8bbd085391a5b3c52c228c3e9027b3e3ef87e81a1f0"
+        },
+        {
+          "index": 41,
+          "room": "bathroom",
+          "path": "data/photo-review/1299225493640477740/041.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1299225493640477740/original/a8eac65c-cc81-48e4-8f2d-2f06dfccaccc.jpeg",
+          "captured_at": "2026-10-24T00:21:33.549547+00:00",
+          "sha256": "700b5f83fc5fecaeeba71f431c699a70a9070ffffa4572f8351d337a14339917"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          22
+        ],
+        "sleeping": [
+          26
+        ],
+        "bathroom": [
+          41
+        ]
+      }
+    },
+    "53109117": {
+      "title": "Upscale Couples Retreat",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/53109117/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-53109117/original/2428802e-adf5-4e4d-a139-c7558835150b.jpeg",
+          "captured_at": "2026-10-24T01:05:12.911464+00:00",
+          "sha256": "61d0ae1efd7af0a84ae75ec13900e2040240fa735ef079498366eaf494bad042"
+        },
+        {
+          "index": 8,
+          "room": "kitchen",
+          "path": "data/photo-review/53109117/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-53109117/original/d26b50ac-2879-4841-bd4d-77f814cc5c34.jpeg",
+          "captured_at": "2026-10-24T01:05:12.911464+00:00",
+          "sha256": "dcfad239332a5e4dd22282df5e6b94795da3698ff4e6c642c80bfe83022f500a"
+        },
+        {
+          "index": 13,
+          "room": "sleeping",
+          "path": "data/photo-review/53109117/013.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-53109117/original/f99ad2bf-8c3d-4070-8189-432bd36cd540.jpeg",
+          "captured_at": "2026-10-24T01:05:12.911464+00:00",
+          "sha256": "dda72016d4b72489d999d6f3c0b97bdd6fee1a7782ca2840be97437240659aaf"
+        },
+        {
+          "index": 15,
+          "room": "bathroom",
+          "path": "data/photo-review/53109117/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-53109117/original/8dca42a1-3a58-4242-980d-90902a0556e9.jpeg",
+          "captured_at": "2026-10-24T01:05:12.911464+00:00",
+          "sha256": "8415162cfe33ae61a49e03fa52ed3e070b904ec892c6fd93e88920707530a10e"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          8
+        ],
+        "sleeping": [
+          13
+        ],
+        "bathroom": [
+          15
+        ]
+      }
+    },
+    "1342925555528487316": {
+      "title": "NEW! SEXY Cabin~Adult Getaway",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 21,
+          "room": "living",
+          "path": "data/photo-review/1342925555528487316/021.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0MjkyNTU1NTUyODQ4NzMxNg%3D%3D/original/ecca30ee-649b-45d6-abdd-89bc0bbdb61f.jpeg",
+          "captured_at": "2026-10-24T00:21:35.482207+00:00",
+          "sha256": "3f3b9219c88dd83e7065f77253571938136fcd6a78d792bed78e351f98d74828"
+        },
+        {
+          "index": 11,
+          "room": "kitchen",
+          "path": "data/photo-review/1342925555528487316/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0MjkyNTU1NTUyODQ4NzMxNg%3D%3D/original/145eab38-0917-4fbd-81c5-fc86a50d10cd.jpeg",
+          "captured_at": "2026-10-24T00:21:35.482207+00:00",
+          "sha256": "d5e918aa35f6790c097e8a279b5b9abb8cd3841a4dc84c1381758141e13cf3af"
+        },
+        {
+          "index": 16,
+          "room": "sleeping",
+          "path": "data/photo-review/1342925555528487316/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0MjkyNTU1NTUyODQ4NzMxNg%3D%3D/original/a89d0571-a12d-4878-9635-4207b4249833.jpeg",
+          "captured_at": "2026-10-24T00:21:35.482207+00:00",
+          "sha256": "afa779e71f5f7028adbae054e45c6ad5bf68d7524b87891a8a72c165259e0ae7"
+        },
+        {
+          "index": 20,
+          "room": "bathroom",
+          "path": "data/photo-review/1342925555528487316/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0MjkyNTU1NTUyODQ4NzMxNg%3D%3D/original/5db1755d-ab28-4d26-85bf-6d73d6002155.jpeg",
+          "captured_at": "2026-10-24T00:21:35.482207+00:00",
+          "sha256": "7ce7c812305132446c99530b04e2b0bf9b9dec0c0da8323daff2a0b4b3213abe"
+        },
+        {
+          "index": 7,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1342925555528487316/007.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1342925555528487316/original/06d07401-1d62-4166-bb1e-5915864b1cec.jpeg",
+          "captured_at": "2026-10-25T20:48:45.584064+00:00",
+          "sha256": "6d3fd507d579d2589898372d313b1c0ccb32aae41ea5b57aac78f40f0d6f9575"
+        }
+      ],
+      "rooms": {
+        "living": [
+          21
+        ],
+        "kitchen": [
+          11
+        ],
+        "sleeping": [
+          16
+        ],
+        "bathroom": [
+          20
+        ],
+        "outdoor": [
+          7
+        ]
+      }
+    },
+    "957981026609720279": {
+      "title": "Romantic & Secluded Escape: Hot Tub, Fire Pit",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 3,
+          "room": "living",
+          "path": "data/photo-review/957981026609720279/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-957981026609720279/original/9de855a4-e174-4609-86e0-3bcdd760d11b.jpeg",
+          "captured_at": "2026-10-24T00:21:37.978843+00:00",
+          "sha256": "1ad0da73c68e88ea1be7a9c59fe9ab92f27c71a295818f80dbebe88226039fd1"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/957981026609720279/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-957981026609720279/original/03942763-6bff-4ef9-ab43-8de8fcfa4a68.jpeg",
+          "captured_at": "2026-10-24T00:21:37.978843+00:00",
+          "sha256": "396ee6e66f41a958df6dd43c2fe36526d41be146bc128708308a69d0aca7b3dd"
+        },
+        {
+          "index": 11,
+          "room": "sleeping",
+          "path": "data/photo-review/957981026609720279/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-957981026609720279/original/9f6094dc-51ab-4093-b5c4-a545aa8eb64d.jpeg",
+          "captured_at": "2026-10-24T00:21:37.978843+00:00",
+          "sha256": "9b1c65d243520290f90c05dca367322bace725b4e393b3f6aa174001c55ad338"
+        },
+        {
+          "index": 15,
+          "room": "bathroom",
+          "path": "data/photo-review/957981026609720279/015.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-957981026609720279/original/faaa5348-4945-4aa9-af54-97dc5da724fb.jpeg",
+          "captured_at": "2026-10-24T00:21:37.978843+00:00",
+          "sha256": "745e6b51a25f43ff5f165164b6e985a1c4155e4b0517995f8f047aebcba0b592"
+        }
+      ],
+      "rooms": {
+        "living": [
+          3
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          11
+        ],
+        "bathroom": [
+          15
+        ]
+      }
+    },
+    "1161627648146041714": {
+      "title": "Runaway Couples Spa Retreat | Hot Tub + Fireplaces",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1161627648146041714/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MTYyNzY0ODE0NjA0MTcxNA==/original/6dc31050-d024-434f-a092-f45991a36585.jpeg",
+          "captured_at": "2026-10-24T00:21:39.892250+00:00",
+          "sha256": "2f28403fa5ac2d01d6ce9f18c122eeda1825292f22084e06eb349f64e069e7d4"
+        },
+        {
+          "index": 14,
+          "room": "kitchen",
+          "path": "data/photo-review/1161627648146041714/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MTYyNzY0ODE0NjA0MTcxNA==/original/03753b20-4db5-4a45-9a8c-846efb5f292b.jpeg",
+          "captured_at": "2026-10-24T00:21:39.892250+00:00",
+          "sha256": "7ff6e62f7febb542ff228eb43948333ad97224a49faeecc8aebf5d6c708b7d63"
+        },
+        {
+          "index": 29,
+          "room": "sleeping",
+          "path": "data/photo-review/1161627648146041714/029.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MTYyNzY0ODE0NjA0MTcxNA==/original/2ae256ea-c0af-48dd-9c8d-00fb33020481.jpeg",
+          "captured_at": "2026-10-24T00:21:39.892250+00:00",
+          "sha256": "f14323f672a7dd029c1df81df907ad89bfdfc1db238f88cb02c8ad6bff6a3a2c"
+        },
+        {
+          "index": 30,
+          "room": "bathroom",
+          "path": "data/photo-review/1161627648146041714/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MTYyNzY0ODE0NjA0MTcxNA==/original/d28d7db5-65c3-4276-b542-3936a5b0292d.jpeg",
+          "captured_at": "2026-10-24T00:21:39.892250+00:00",
+          "sha256": "522d98734661b43325d4813528790925d4bbfa4c634478704f0e70c225bb763f"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          14
+        ],
+        "sleeping": [
+          29
+        ],
+        "bathroom": [
+          30
+        ]
+      }
+    },
+    "1521204323282786970": {
+      "title": "Romantic Forest Retreat|Hot Tub|Walk to Dinner",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1521204323282786970/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521204323282786970/original/d2456946-69f5-4dbf-b6a7-cf60ab7e55fb.jpeg",
+          "captured_at": "2026-10-26T00:22:50.956493+00:00",
+          "sha256": "9ab63f1aaea5697eeaf7f5f2000a1d90b9268994c2947a6fa74dade2ebb06e41"
+        },
+        {
+          "index": 14,
+          "room": "kitchen",
+          "path": "data/comparison-photos/1521204323282786970/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521204323282786970/original/cbf8ee50-db65-414f-9be5-1caf6837702c.jpeg",
+          "captured_at": "2026-10-26T00:36:16.462046+00:00",
+          "sha256": "913465f1d161aa11224d7670ecbb38ba7a9dec8a957601ba9407c11e4ff5f1e7"
+        },
+        {
+          "index": 22,
+          "room": "sleeping",
+          "path": "data/comparison-photos/1521204323282786970/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521204323282786970/original/eab9f8d4-5c38-4975-bc27-8d66372ae7d4.jpeg",
+          "captured_at": "2026-10-26T00:36:20.081211+00:00",
+          "sha256": "c3212f7d000cd65a7a69f6e9783d31b0666bde9ea6c47b0021ebb1d2e25655f4"
+        },
+        {
+          "index": 28,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1521204323282786970/028.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521204323282786970/original/9bca6882-52f7-4fc5-81e9-860b891d2a69.jpeg",
+          "captured_at": "2026-10-26T00:36:22.969859+00:00",
+          "sha256": "449dcb9d2453076215fce9bcfc906757da8d879b7f285ef50bb685ccdeb3898f"
+        },
+        {
+          "index": 34,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1521204323282786970/034.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1521204323282786970/original/140af9aa-70ce-480a-a168-679a7ceb4434.jpeg",
+          "captured_at": "2026-10-26T00:36:25.402020+00:00",
+          "sha256": "5c1b8c7c1925bb9f7eef4869add817a68810535330fcdb462b8e6ae78a1006a6"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          14
+        ],
+        "sleeping": [
+          22
+        ],
+        "bathroom": [
+          28
+        ],
+        "outdoor": [
+          34
+        ]
+      }
+    },
+    "39928725": {
+      "title": "Cloud 9|Honeymoon Cabin|Hot Tub|Wine",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/comparison-photos/39928725/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-39928725/original/a30eb35c-44f1-43bf-8d00-541015c23c8e.jpeg",
+          "captured_at": "2026-10-26T00:36:21.922733+00:00",
+          "sha256": "2b5f0a3f2951fecf6b500e005c519d0aefebe435eb6a080b01241a92fb1897bb"
+        },
+        {
+          "index": 2,
+          "room": "kitchen",
+          "path": "data/comparison-photos/39928725/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-39928725/original/a30eb35c-44f1-43bf-8d00-541015c23c8e.jpeg",
+          "captured_at": "2026-10-26T00:36:24.393206+00:00",
+          "sha256": "2b5f0a3f2951fecf6b500e005c519d0aefebe435eb6a080b01241a92fb1897bb"
+        },
+        {
+          "index": 3,
+          "room": "sleeping",
+          "path": "data/comparison-photos/39928725/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-39928725/original/e6c3753c-b6e2-4c68-ba9f-e572ffda6574.jpeg",
+          "captured_at": "2026-10-26T00:36:24.396746+00:00",
+          "sha256": "fb403522227910af1c2e561c3e727abff792ebba21e1788016d5edc3665096be"
+        },
+        {
+          "index": 4,
+          "room": "bathroom",
+          "path": "data/photo-review/39928725/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-39928725/original/8a1de802-b864-48d0-90a7-b69e7e882d31.jpeg",
+          "captured_at": "2026-10-26T00:30:27.718095+00:00",
+          "sha256": "ca65a5d462b5b5adce8a3af535de7c5a101a7a5ed3fe6c7150b45c2144769337"
+        },
+        {
+          "index": 10,
+          "room": "outdoor",
+          "path": "data/comparison-photos/39928725/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-39928725/original/dc34c351-ed98-4eec-9734-4ff98f53370d.jpeg",
+          "captured_at": "2026-10-26T00:36:26.930483+00:00",
+          "sha256": "fbb1ccef5bfbb9cd17c3277dfb40fabed97eb45dfb1f17c7f94d0c35dc14ddc3"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          2
+        ],
+        "sleeping": [
+          3
+        ],
+        "bathroom": [
+          4
+        ],
+        "outdoor": [
+          10
+        ]
+      }
+    },
+    "1410865242227732092": {
+      "title": "New-Luxury Meets Dark Delight/Adults Only/Red Room",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1410865242227732092/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/7dc31eb2-fe4f-4332-a205-460cf8b18494.jpeg",
+          "captured_at": "2026-10-24T00:21:54.130989+00:00",
+          "sha256": "105713a8c6626f5ed66cf755d0429072063a1bd3cee7073c79aefd1d38792db5"
+        },
+        {
+          "index": 9,
+          "room": "kitchen",
+          "path": "data/photo-review/1410865242227732092/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/f2348c3f-39bd-4647-be5b-b8a89f8ebbc7.jpeg",
+          "captured_at": "2026-10-24T00:21:54.130989+00:00",
+          "sha256": "9b86171a1f47e06cbb4867d3bded6f979821b3176c123b178e71d1257a8207fd"
+        },
+        {
+          "index": 19,
+          "room": "sleeping",
+          "path": "data/photo-review/1410865242227732092/019.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/32a5daa5-b98e-4129-94ea-a597c5b3465c.jpeg",
+          "captured_at": "2026-10-24T00:21:54.130989+00:00",
+          "sha256": "fd31af78b63ad086712bbb83338d4515df39003a82dd32d555431c67f3ef737d"
+        },
+        {
+          "index": 23,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1410865242227732092/023.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/10c0823a-8a6a-4a11-b68a-ce903bd0c5e7.jpeg",
+          "captured_at": "2026-10-25T20:48:45.590010+00:00",
+          "sha256": "83017734fe3a03e280fd5bd753c4f1f97ac53eedbb490fd39651af245eb22102"
+        },
+        {
+          "index": 35,
+          "room": "playroom",
+          "path": "data/comparison-photos/1410865242227732092/035.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/be96e94b-dd68-403f-afd3-b117114a865b.jpeg",
+          "captured_at": "2026-10-25T20:48:45.590827+00:00",
+          "sha256": "02bd96c0cb2ff9a5c57ae24d30d8f71f231362ecf7ac5680df06a3106651cd65"
+        },
+        {
+          "index": 28,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1410865242227732092/028.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxMDg2NTI0MjIyNzczMjA5Mg==/original/3ba68c2c-bc5e-4613-8067-1e4b54769c6f.jpeg",
+          "captured_at": "2026-10-25T20:48:45.591773+00:00",
+          "sha256": "acfad9b6b8dc950c108848fb3f5605cd262ee1e774ac596b12f324333c8321e2"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          9
+        ],
+        "sleeping": [
+          19
+        ],
+        "bathroom": [
+          23
+        ],
+        "playroom": [
+          35
+        ],
+        "outdoor": [
+          28
+        ]
+      }
+    },
+    "1516022197738023085": {
+      "title": "New Adult Kink Theme Romantic Luxury Couples Cabin",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 3,
+          "room": "living",
+          "path": "data/photo-review/1516022197738023085/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/4c2c037f-c0dd-4d2e-bdcd-1c847e11f265.jpeg",
+          "captured_at": "2026-10-24T00:22:07.425120+00:00",
+          "sha256": "53df2914b94ce357e5e48f92a51886b5d58e7050e98ac9d70908379c4cc0c6e2"
+        },
+        {
+          "index": 5,
+          "room": "kitchen",
+          "path": "data/photo-review/1516022197738023085/005.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/61732cf3-1204-43bf-8119-8757c5df1369.jpeg",
+          "captured_at": "2026-10-24T00:22:07.425120+00:00",
+          "sha256": "97b66c296dd41839cbc70ae5675ca593dac10edb991d316d960f34ebf8892add"
+        },
+        {
+          "index": 12,
+          "room": "sleeping",
+          "path": "data/photo-review/1516022197738023085/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/25bbb4ff-2b7a-4478-8c6a-66fa55d8641d.jpeg",
+          "captured_at": "2026-10-24T00:22:07.425120+00:00",
+          "sha256": "b9fa3006d44cfe020acd16e01e35fe7ffae485eaa3ba7765151f62e614c6c1f5"
+        },
+        {
+          "index": 27,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1516022197738023085/027.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/8dac9d0b-3f31-4438-bc80-07f1dff9a25a.jpeg",
+          "captured_at": "2026-10-25T20:48:45.594012+00:00",
+          "sha256": "b76af0ed7bc6304da2df7f757de44e2dfd4c757e048b7822a8159f2c5107251b"
+        },
+        {
+          "index": 25,
+          "room": "bathroom",
+          "path": "data/photo-review/1516022197738023085/025.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/69cbe724-2476-4f56-b8d9-6d07432b6b21.jpeg",
+          "captured_at": "2026-10-24T00:22:07.425120+00:00",
+          "sha256": "4cd578f5fff22a0264ce396127f61442bbf498616627ae63b24712b87942ee69"
+        },
+        {
+          "index": 18,
+          "room": "playroom",
+          "path": "data/comparison-photos/1516022197738023085/018.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/ca3505d5-5d37-48e5-8d16-738defd6a8ed.jpeg",
+          "captured_at": "2026-10-25T20:48:45.595164+00:00",
+          "sha256": "854b2c54afbe8ac03dffe3899dbb66d4dde0fd71e7d99458fbb0e3ba8f8b6046"
+        },
+        {
+          "index": 33,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1516022197738023085/033.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1516022197738023085/original/9c29fe73-10fe-4da9-9d3c-9aa736b78a12.jpeg",
+          "captured_at": "2026-10-25T20:48:45.595698+00:00",
+          "sha256": "12fb3a9068a28ca43ee150ccf06f3b61555f4b89feea5d8a054fffb1cd506059"
+        }
+      ],
+      "rooms": {
+        "living": [
+          3
+        ],
+        "kitchen": [
+          5
+        ],
+        "sleeping": [
+          12
+        ],
+        "bathroom": [
+          27,
+          25
+        ],
+        "playroom": [
+          18
+        ],
+        "outdoor": [
+          33
+        ]
+      }
+    },
+    "1531268498318778805": {
+      "title": "Romantic Red Room – Adults Only Couples' Retreat",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 27,
+          "room": "living",
+          "path": "data/comparison-photos/1531268498318778805/027.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/10c3e729-94b4-487f-88c8-4c33fe353318.jpeg",
+          "captured_at": "2026-10-25T20:48:45.592606+00:00",
+          "sha256": "fa903f1138d49f8bbc88cf9f11555b6868de36e4edf24ea0699d5b8fed264ed2"
+        },
+        {
+          "index": 32,
+          "room": "kitchen",
+          "path": "data/comparison-photos/1531268498318778805/032.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/e4e15978-06e5-4de9-9048-f16325087297.jpeg",
+          "captured_at": "2026-10-25T20:48:47.028342+00:00",
+          "sha256": "a17402314b54b9483ad88f4192e2d2349d9e0f471bc67e21490292a8654f84d0"
+        },
+        {
+          "index": 11,
+          "room": "sleeping",
+          "path": "data/photo-review/1531268498318778805/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/c49fb7f0-fef6-43a8-ab0e-62cf11161d7f.jpeg",
+          "captured_at": "2026-10-24T00:22:20.188167+00:00",
+          "sha256": "3beefefbedbe93c7800e228c6b25a6f1c5f83cb3e9c08a35ef669152dadc87a8"
+        },
+        {
+          "index": 16,
+          "room": "bathroom",
+          "path": "data/photo-review/1531268498318778805/016.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/0d148419-57e0-42a1-9aaf-02561f52f7c5.jpeg",
+          "captured_at": "2026-10-24T00:22:20.188167+00:00",
+          "sha256": "3d42234322d1b3df727a7c064a512c582c44182260b2ccaa9513f7eb4866127a"
+        },
+        {
+          "index": 9,
+          "room": "playroom",
+          "path": "data/comparison-photos/1531268498318778805/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/5686b8c1-489d-4e85-8fec-84a1fab92b60.jpeg",
+          "captured_at": "2026-10-25T20:48:47.578345+00:00",
+          "sha256": "ab0465b978a8163d3fdc1bf2cf787bc73f58f262c20037484cd044d3642c91c9"
+        },
+        {
+          "index": 6,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1531268498318778805/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/51ea7dc2-a95b-4b04-a9e2-c5ae7bb3e1b1.jpeg",
+          "captured_at": "2026-10-25T20:48:48.074933+00:00",
+          "sha256": "c3445f863aef31647b0311a8fb2f83f529c6b52259567fdd2073daee213e5c19"
+        },
+        {
+          "index": 4,
+          "room": "outdoor",
+          "path": "data/comparison-photos/1531268498318778805/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1531268498318778805/original/fd3d0849-2086-4977-a906-8a56aa2048ce.jpeg",
+          "captured_at": "2026-10-25T20:48:48.971819+00:00",
+          "sha256": "ec0922ae67a72f4eab5312343b890200a1bb947ed0828e7f8c34439b62e59867"
+        }
+      ],
+      "rooms": {
+        "living": [
+          27
+        ],
+        "kitchen": [
+          32
+        ],
+        "sleeping": [
+          11
+        ],
+        "bathroom": [
+          16
+        ],
+        "playroom": [
+          9
+        ],
+        "outdoor": [
+          6,
+          4
+        ]
+      }
+    },
+    "879278230998262471": {
+      "title": "NEW Kink Cabin, Adult Theme Romance",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 3,
+          "room": "living",
+          "path": "data/photo-review/879278230998262471/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-879278230998262471/original/4ce237c0-d093-47ac-9511-5b1f1e74af27.jpeg",
+          "captured_at": "2026-10-24T00:22:28.459110+00:00",
+          "sha256": "6c815203544b8abd685527dbed3ec28ad29414e479445a8feb0954fdbb6ac536"
+        },
+        {
+          "index": 17,
+          "room": "kitchen",
+          "path": "data/photo-review/879278230998262471/017.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-879278230998262471/original/04eb6e1c-8b8a-4869-af73-dd2438e160aa.jpeg",
+          "captured_at": "2026-10-24T00:22:28.459110+00:00",
+          "sha256": "c385e5896d00bfd61a93b81817cd36acc9ea1e5fe16a34e529fc676787077f37"
+        },
+        {
+          "index": 1,
+          "room": "sleeping",
+          "path": "data/photo-review/879278230998262471/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-879278230998262471/original/e0d8cf91-8b9f-4e95-83f1-7465a596bfee.jpeg",
+          "captured_at": "2026-10-24T00:22:28.459110+00:00",
+          "sha256": "354bdbe463f2ec3b8b9923d7f6fe68dab1d150d058d38b93a2c421b8029a6fb8"
+        },
+        {
+          "index": 22,
+          "room": "bathroom",
+          "path": "data/comparison-photos/879278230998262471/022.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-879278230998262471/original/2b378a42-b15e-4843-b79d-844a93bcd4b8.jpeg",
+          "captured_at": "2026-10-25T20:48:45.602586+00:00",
+          "sha256": "46dd129099484b1c7ee76b16d1b9b2518edec8d16d2d802dad4c56704f413f73"
+        },
+        {
+          "index": 36,
+          "room": "outdoor",
+          "path": "data/comparison-photos/879278230998262471/036.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-879278230998262471/original/9ec7b4de-2cfe-473c-b29a-862721270857.jpeg",
+          "captured_at": "2026-10-25T20:48:46.495242+00:00",
+          "sha256": "ed5d1ee96b69db6b832dff4d1acd6f5308c1dd9fc7783abc0d65d0955d10d43d"
+        }
+      ],
+      "rooms": {
+        "living": [
+          3
+        ],
+        "kitchen": [
+          17
+        ],
+        "sleeping": [
+          1
+        ],
+        "bathroom": [
+          22
+        ],
+        "outdoor": [
+          36
+        ]
+      }
+    },
+    "52755393": {
+      "title": "The Star Window: A Modern Honeymoon Cabin",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 4,
+          "room": "living",
+          "path": "data/photo-review/52755393/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-52755393/original/ae0f3f72-796d-42df-9e2f-57aa699e9681.jpeg",
+          "captured_at": "2026-10-24T00:26:40.750817+00:00",
+          "sha256": "142848549fe9007ae7ee151e161eb10417081776ca38b01885199edbac4811f0"
+        },
+        {
+          "index": 6,
+          "room": "kitchen",
+          "path": "data/photo-review/52755393/006.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-52755393/original/b359d49e-8f40-4406-8bae-34b5cc414cf8.jpeg",
+          "captured_at": "2026-10-24T00:26:40.750817+00:00",
+          "sha256": "ace9d55a380ca6b95e2bc79795272eef44fc96434e3868073fc760e93db72dae"
+        },
+        {
+          "index": 9,
+          "room": "sleeping",
+          "path": "data/photo-review/52755393/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-52755393/original/992af8d0-85cf-46c9-af4a-c6354040f620.jpeg",
+          "captured_at": "2026-10-24T00:26:40.750817+00:00",
+          "sha256": "0dcc865f19c960ba3d5ae2dc91763519ddeaf0fd712d675add0e43d4a666383d"
+        },
+        {
+          "index": 14,
+          "room": "bathroom",
+          "path": "data/photo-review/52755393/014.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-52755393/original/2e3ccd89-35ec-45e0-a91f-3b41971bcacd.jpeg",
+          "captured_at": "2026-10-24T00:26:40.750817+00:00",
+          "sha256": "d4a25cc77f4e9d1339961ac545df5da5de542a6899f4d7ae080e78be72916dd4"
+        }
+      ],
+      "rooms": {
+        "living": [
+          4
+        ],
+        "kitchen": [
+          6
+        ],
+        "sleeping": [
+          9
+        ],
+        "bathroom": [
+          14
+        ]
+      }
+    },
+    "828876927549902979": {
+      "title": "The Aspen Cabin-Soaker Tub Dry Sauna & Hot Tub",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 2,
+          "room": "living",
+          "path": "data/photo-review/828876927549902979/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-828876927549902979/original/03c7f4dd-72f4-4fee-af5f-e37a79bf02e5.jpeg",
+          "captured_at": "2026-10-24T01:05:07.660226+00:00",
+          "sha256": "1fe19d42e6370456f21074477b3afc6528fe641e00c354f9699f0377d9dc2736"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/828876927549902979/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-828876927549902979/original/5a5f8d3e-0dbf-428b-9100-47022ca154d8.jpeg",
+          "captured_at": "2026-10-24T01:05:07.660226+00:00",
+          "sha256": "c5aef80b09de7e9f1ad196807023c6d2786f1a38e4d4ccc4fb8ac760ca72f4ba"
+        },
+        {
+          "index": 25,
+          "room": "sleeping",
+          "path": "data/photo-review/828876927549902979/025.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-828876927549902979/original/8eea99dd-7f72-4c3e-84b3-f212f6c9256c.jpeg",
+          "captured_at": "2026-10-24T01:05:07.660226+00:00",
+          "sha256": "3b76959eded7c6fe0605edb42c1d2185e882299a30ac3969b397ba0d3df5c7fe"
+        },
+        {
+          "index": 27,
+          "room": "bathroom",
+          "path": "data/photo-review/828876927549902979/027.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-828876927549902979/original/7029a8ea-6b62-466c-ada2-34b27fca607f.jpeg",
+          "captured_at": "2026-10-24T01:05:07.660226+00:00",
+          "sha256": "0bbcc0d97ac41bfce6974aaadcf65c11523046b77807d89e2181e4449d3a8ce0"
+        }
+      ],
+      "rooms": {
+        "living": [
+          2
+        ],
+        "kitchen": [
+          4
+        ],
+        "sleeping": [
+          25
+        ],
+        "bathroom": [
+          27
+        ]
+      }
+    },
+    "1192687056169694077": {
+      "title": "Secluded Modern Cabin-Hot Tub-Outdoor Fireplace",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/1192687056169694077/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1192687056169694077/original/4fcd4285-5463-4b86-8e74-9130e79dbc57.jpeg",
+          "captured_at": "2026-10-24T00:26:40.996164+00:00",
+          "sha256": "2afa06ab0dc539cf07fafbdc9f708d747eea4b1d2f241c712311813317be6d8a"
+        },
+        {
+          "index": 11,
+          "room": "kitchen",
+          "path": "data/photo-review/1192687056169694077/011.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE5MjY4NzA1NjE2OTY5NDA3Nw%3D%3D/original/aa998cea-8ef3-4775-94d7-6d0f17bdf64c.jpeg",
+          "captured_at": "2026-10-24T00:26:40.996164+00:00",
+          "sha256": "14e522770b63dd53bb08cae7723e7ca65452ddbb199bc00dd4826a66c6e5326a"
+        },
+        {
+          "index": 20,
+          "room": "sleeping",
+          "path": "data/photo-review/1192687056169694077/020.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192687056169694077/original/ed3f54e1-b1f1-41ac-b7d0-1980b159c313.jpeg",
+          "captured_at": "2026-10-24T00:26:40.996164+00:00",
+          "sha256": "ee10e33e3009c199f009ce7ebc802a21749acecfe7605e0ceab0a8eca1742fb3"
+        },
+        {
+          "index": 30,
+          "room": "bathroom",
+          "path": "data/comparison-photos/1192687056169694077/030.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1192687056169694077/original/8e5656fb-a24e-4bb3-8252-cd2e6b90df16.jpeg",
+          "captured_at": "2026-10-25T20:48:46.525151+00:00",
+          "sha256": "b2d9c057e94379fd7835ad5981d95566b6e29edd5c4fc3335301e1df9ed9a2ce"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          11
+        ],
+        "sleeping": [
+          20
+        ],
+        "bathroom": [
+          30
+        ]
+      }
+    },
+    "894887464160144127": {
+      "title": "Kinky Ski Cabin | Sexy Adult Only | BDSM Themed",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 8,
+          "room": "living",
+          "path": "data/photo-review/894887464160144127/008.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-894887464160144127/original/eb230f52-ab02-4e24-bb56-627db98d57db.jpeg",
+          "captured_at": "2026-10-24T00:22:35.866940+00:00",
+          "sha256": "72462822fa56a49f698be051f9a07e5cd0de8f3ed74ad257cba96179846f9931"
+        },
+        {
+          "index": 9,
+          "room": "kitchen",
+          "path": "data/photo-review/894887464160144127/009.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-894887464160144127/original/8771d087-323c-4cee-9b65-0560d6719209.jpeg",
+          "captured_at": "2026-10-24T00:22:35.866940+00:00",
+          "sha256": "da119b427c5a5c68a1027fcf3e0f034001cb8c4327281d09d0ef47a510949388"
+        },
+        {
+          "index": 10,
+          "room": "sleeping",
+          "path": "data/photo-review/894887464160144127/010.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODk0ODg3NDY0MTYwMTQ0MTI3/original/4fbbf33d-aba3-4ed5-8e8d-dcb1ee99fbb5.jpeg",
+          "captured_at": "2026-10-24T00:22:35.866940+00:00",
+          "sha256": "06592c246a96b6eaf4e200cdc4746c5564a53bf20de5dc64d6d2e481e5a1623b"
+        },
+        {
+          "index": 21,
+          "room": "bathroom",
+          "path": "data/photo-review/894887464160144127/021.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-894887464160144127/original/a87847cd-ed31-4c32-9a0a-f2e93696fbda.jpeg",
+          "captured_at": "2026-10-24T00:22:35.866940+00:00",
+          "sha256": "a1d0c5e2bb2cebbad135a3f10c89b0f2e294ee13a91f4ace7cd49efcae4cf19d"
+        },
+        {
+          "index": 2,
+          "room": "playroom",
+          "path": "data/comparison-photos/894887464160144127/002.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-894887464160144127/original/46903d6e-38e0-42a0-bb2d-789712d5d863.jpeg",
+          "captured_at": "2026-10-25T20:48:47.288456+00:00",
+          "sha256": "7ea6937532f6bf98925ffeb71bb674e3c69dd37d3626fc5d83d7370d4f0a0106"
+        },
+        {
+          "index": 3,
+          "room": "outdoor",
+          "path": "data/comparison-photos/894887464160144127/003.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-894887464160144127/original/e5ce55ef-2496-4ebf-b04f-ad05ea9c2389.jpeg",
+          "captured_at": "2026-10-25T20:48:47.793309+00:00",
+          "sha256": "eb10503242f544b5ca2372e06def654284650b283a475d9cb14df9b4a166ed75"
+        }
+      ],
+      "rooms": {
+        "living": [
+          8
+        ],
+        "kitchen": [
+          9
+        ],
+        "sleeping": [
+          10
+        ],
+        "bathroom": [
+          21
+        ],
+        "playroom": [
+          2
+        ],
+        "outdoor": [
+          3
+        ]
+      }
+    },
+    "37038488": {
+      "title": "Chestnut Cabin- Couples Retreat, Hot Tub, Private",
+      "review_date": "2026-10-26",
+      "photos": [
+        {
+          "index": 1,
+          "room": "living",
+          "path": "data/photo-review/37038488/001.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/1756be2a-4a41-43fe-88f1-6f4ad42e254a.jpg",
+          "captured_at": "2026-10-24T00:22:38.398863+00:00",
+          "sha256": "88ea74415cea23f513c4eb121e6b7e86b3e71216b9311c7aa19d06498c441e83"
+        },
+        {
+          "index": 4,
+          "room": "kitchen",
+          "path": "data/photo-review/37038488/004.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/1c7875f3-25fa-4aeb-9ee9-6a33b7f73483.jpg",
+          "captured_at": "2026-10-24T00:22:38.398863+00:00",
+          "sha256": "7ac7d1755b3b51b942f5a0342a5b66d9e77f8d85172c7d564af91fc446109128"
+        },
+        {
+          "index": 12,
+          "room": "bathroom",
+          "path": "data/photo-review/37038488/012.jpg",
+          "source_url": "https://a0.muscache.com/im/pictures/e51abe4e-b630-4b93-8671-be8def8e1c70.jpg",
+          "captured_at": "2026-10-24T00:22:38.398863+00:00",
+          "sha256": "06d17b4b5ec8143acf54aeea7e347f4418a7e37b5d3dd10744b882b2fd4d542a"
+        }
+      ],
+      "rooms": {
+        "living": [
+          1
+        ],
+        "kitchen": [
+          4
+        ],
+        "bathroom": [
+          12
+        ]
+      }
+    }
+  }
+}
