@@ -296,7 +296,7 @@
     "Revenue Potential is modeled and flatters young listings (15 of 56 have fewer than 300 active nights).",
     "Gaps are associations with a few reviewed comps, not causal theme effects or return estimates. 18 listings have no usable comp.",
     "Photo coding reflects public galleries on October 27, 2026; not shown does not mean absent.",
-    "The 56-listing set uses a newer AirDNA pull than the 15 confirmed-cabin comparisons; the two are reported separately."
+    "The 56-listing set comes from the AirDNA refresh before the one used for the 15 confirmed-cabin comparisons (mostly within 3%, up to 15% for Velvet Chains); the two are reported separately, never pooled."
   ],
   "photos": {
     "q1_exterior": {

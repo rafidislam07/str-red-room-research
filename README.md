@@ -1,7 +1,7 @@
 # STR Search research dashboard
 
 The `site` directory contains the cleaned static research presentation, current
-comparison data, referenced photos, and two current research downloads.
+comparison data and referenced photos. It offers no file downloads.
 Research updated October 27, 2026. Historical reports and working datasets are excluded.
 
 ## Local preview
