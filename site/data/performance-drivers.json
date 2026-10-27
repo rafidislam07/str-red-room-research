@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "research_updated": "2026-10-27",
+    "revenue_label": "AirDNA Revenue Potential, last 12 months: modeled revenue, not actual income.",
+    "sample": "56 adult-themed listings in 40 cities (team keyword discovery), 54 with live public pages. Conventional comps were photo-reviewed per listing for comparable interiors and property style."
+  },
+  "headline": {
+    "listings": 56,
+    "live": 54,
+    "with_comps": 41,
+    "median_gap": 0.4997,
+    "above": 31,
+    "below": 10,
+    "broad_median_uplift": 0.9148
+  },
+  "ladder": [
+    {
+      "rung": "0",
+      "label": "No hot tub",
+      "listings": 18,
+      "median_revenue": 37403.0,
+      "p25": 23263.0,
+      "p75": 50513.25,
+      "median_adr": 256.4,
+      "median_occupancy": 0.3686,
+      "share_100k": 0.0,
+      "with_comps": 15,
+      "median_gap": -0.0252
+    },
+    {
+      "rung": "1",
+      "label": "Hot tub, city house/apartment/suite",
+      "listings": 12,
+      "median_revenue": 48520.0,
+      "p25": 33078.25,
+      "p75": 70259.0,
+      "median_adr": 255.53,
+      "median_occupancy": 0.5818,
+      "share_100k": 0.1667,
+      "with_comps": 6,
+      "median_gap": 0.6535
+    },
+    {
+      "rung": "2",
+      "label": "Hot tub + cabin-style or mountain/lake destination",
+      "listings": 4,
+      "median_revenue": 71470.0,
+      "p25": 66647.0,
+      "p75": 76493.75,
+      "median_adr": 366.34,
+      "median_occupancy": 0.5759,
+      "share_100k": 0.0,
+      "with_comps": 3,
+      "median_gap": 0.6532
+    },
+    {
+      "rung": "3",
+      "label": "Rung 2 + real kit (2+ pieces incl. cross or swing) + finish 3/5+",
+      "listings": 20,
+      "median_revenue": 104193.0,
+      "p25": 78199.25,
+      "p75": 129244.25,
+      "median_adr": 355.62,
+      "median_occupancy": 0.7303,
+      "share_100k": 0.55,
+      "with_comps": 17,
+      "median_gap": 0.7389
+    },
+    {
+      "rung": "Top",
+      "label": "Rung 3 listings at $100K+ (7 of 11 from repeat operators)",
+      "listings": 11,
+      "median_revenue": 129641,
+      "p25": 101357,
+      "p75": 183311,
+      "range_text": "$101K–$183K",
+      "median_adr": 391,
+      "median_occupancy": 0.83,
+      "share_100k": 1.0,
+      "with_comps": null,
+      "median_gap": null
+    }
+  ],
+  "steps": [
+    [
+      "Hot tub",
+      "The gate. No listing without one reaches $100K, and those listings only match their own comps."
+    ],
+    [
+      "Cabin in a getaway market",
+      "Hot-tub city houses, apartments and suites top out around $49K. A cabin, A-frame or treehouse in a mountain/lake destination moves the median up."
+    ],
+    [
+      "A real kit + decent finishes",
+      "The first rung where $100K is likely. Hot-tub cabins with only a lit “secret room” all stay under $100K."
+    ],
+    [
+      "Operator execution",
+      "Within rung 3, the $100K+ listings run $391 ADR and 83% occupancy vs. $307 and 66%. Seven of the 11 come from operators running 2–3 adult listings."
+    ]
+  ],
+  "rung_examples": {
+    "0": "Erotic Oasis, Baltimore ($7K); Siren’s Cozy Cove, Philadelphia ($36K)",
+    "1": "Kinky Nights, Nashville apartment ($51K); Phoenix guest house ($35K)",
+    "2": "Clayton “secret room” cabin ($86K); Sugar & Spice, Broken Bow ($73K); Sautee Nacoochee ($57K)",
+    "3": "Velvet Chains ($132K) and Tangled Up ($117K), Blue Ridge; Dark Delight, Sevierville ($83K); Romantic Red Room, McCaysville ($91K)",
+    "Top": "Red Room Cabins, Dunlap TN ($130–183K); Your Spicy Stay, Broken Bow & Sevierville ($107–111K); Banner Elk ski cabin ($132K)"
+  },
+  "traditional": [
+    [
+      "Hot tub: required",
+      "Median $79K with one vs. $37K without. Listings with a hot tub beat their comps by +70%; those without are roughly level (−3%)."
+    ],
+    [
+      "Destination cabin setting",
+      "Mountain/lake destinations: $94K median vs. $46K in cities and $39K in small towns. 11 of the 13 listings above $100K are cabins, A-frames or a treehouse."
+    ],
+    [
+      "Decent interiors",
+      "Basic or dated finishes: about $28K and no premium over comps. Updated finishes (3–4/5): +61–81%. Full luxury did not add more in this set."
+    ],
+    [
+      "Fire pit & outdoor dining",
+      "Table stakes across the middle and top tiers (fire pit $78K vs. $51K)."
+    ],
+    [
+      "Views: helpful, not required",
+      "In mountain markets, listings with and without a view earn about the same ($91K vs. $95K)."
+    ]
+  ],
+  "equipment": [
+    {
+      "item": "Red / LED mood lighting",
+      "all": 0.89,
+      "top": 0.92,
+      "lower": 0.9
+    },
+    {
+      "item": "St. Andrew's cross",
+      "all": 0.78,
+      "top": 0.92,
+      "lower": 0.71
+    },
+    {
+      "item": "Swing / sling",
+      "all": 0.67,
+      "top": 1.0,
+      "lower": 0.62
+    },
+    {
+      "item": "Tantra chair / wedge",
+      "all": 0.63,
+      "top": 0.69,
+      "lower": 0.52
+    },
+    {
+      "item": "Toy wall / display",
+      "all": 0.63,
+      "top": 0.69,
+      "lower": 0.57
+    },
+    {
+      "item": "Neon sign",
+      "all": 0.56,
+      "top": 0.69,
+      "lower": 0.38
+    },
+    {
+      "item": "Spanking bench",
+      "all": 0.5,
+      "top": 0.69,
+      "lower": 0.38
+    },
+    {
+      "item": "Restraint bed",
+      "all": 0.39,
+      "top": 0.46,
+      "lower": 0.29
+    },
+    {
+      "item": "Stripper pole",
+      "all": 0.22,
+      "top": 0.15,
+      "lower": 0.33
+    },
+    {
+      "item": "Cage",
+      "all": 0.19,
+      "top": 0.38,
+      "lower": 0.05
+    },
+    {
+      "item": "Massage table",
+      "all": 0.15,
+      "top": 0.23,
+      "lower": 0.05
+    }
+  ],
+  "kit_bands": [
+    [
+      "0 pieces",
+      -0.248
+    ],
+    [
+      "1–3 pieces",
+      0.707
+    ],
+    [
+      "4–5 pieces",
+      0.461
+    ],
+    [
+      "6+ pieces",
+      0.778
+    ]
+  ],
+  "kink_points": [
+    "Core kit: St. Andrew’s cross, swing, spanking bench, tantra chair, restraint points on the bed, red/LED lighting and a clean toy display. Every listing above $100K has a swing; 92% have a cross.",
+    "A credible kit is enough. Moving from a lighting-only “secret room” to a real, photographed setup is the step that matters; more pieces beyond that do not keep raising the premium.",
+    "Romance-only rooms (intensity 1/5) underperform comps by about 41% (3 with comps). Full dungeons earn high rates at lower occupancy, which makes them a niche product.",
+    "Skip the pole: it is more common in the lower tier and in city “bachelorette” party houses."
+  ],
+  "patterns": [
+    [
+      "Keep play in one place",
+      "Among comparable themed hot-tub cabins, a dedicated playroom or a zone in the main bedroom: $107–112K median, vs. $79K when equipment is scattered across the house."
+    ],
+    [
+      "Lead with the getaway",
+      "Exterior, view or hot-tub cover photos: $132K median vs. $79K for living-room covers (comparable themed cabins)."
+    ],
+    [
+      "Two bedrooms, modestly",
+      "$117K vs. $101K among comparable themed cabins. 3–4 bedroom houses underperform (−16% vs. comps); most are city party houses."
+    ],
+    [
+      "Separation: partly supported",
+      "A separate normal bedroom goes with higher revenue overall ($72K vs. $49K), but not once like-for-like cabins are compared. Treat it as a guest-experience standard."
+    ],
+    [
+      "Oversized master: not supported",
+      "The 6 listings coded oversized did not outperform. Photos cannot establish room size; testing it requires floor plans."
+    ],
+    [
+      "The operator matters at the top",
+      "Branded repeat operators turn about $100K into $130–180K through pricing power and occupancy."
+    ]
+  ],
+  "answer": {
+    "title": "Yes, in the right cabin.",
+    "title_em": "The theme multiplies a strong getaway.",
+    "deck": "A themed hot-tub cabin in a mountain or lake getaway market earns about 50% more modeled revenue than comparable conventional cabins, and it is the only profile that regularly reaches $100K. City units earn far less ($37–49K medians), and themed listings without a hot tub only match their comps.",
+    "questions": [
+      {
+        "q": "Which traditional features are needed?",
+        "a": "The full cabin-getaway package.",
+        "points": [
+          "Required: a private hot tub. No listing without one reaches $100K.",
+          "A cabin, A-frame or treehouse in a mountain/lake destination ($94K median vs. $46K in cities).",
+          "Updated finishes (3/5 or better), a fire pit and outdoor dining.",
+          "Helpful, not required: views, a sauna, a spa bathroom."
+        ]
+      },
+      {
+        "q": "Which kink amenities and design patterns?",
+        "a": "A credible core kit, not a maximal dungeon.",
+        "points": [
+          "Core kit: St. Andrew’s cross, swing, spanking bench, tantra chair, bed restraints, red/LED lighting.",
+          "Every listing above $100K has a swing; 92% have a cross.",
+          "No real equipment: −25% vs. comps. One to three pieces: already +71%.",
+          "Avoid lighting-only “secret rooms” and stripper poles."
+        ]
+      },
+      {
+        "q": "What else goes with stronger performance?",
+        "a": "Contained play space, the getaway photo and the operator.",
+        "points": [
+          "Keep play in one dedicated room or the main bedroom ($107–112K vs. $79K when scattered).",
+          "Lead listing photos with the exterior, view or hot tub ($132K vs. $79K).",
+          "Two bedrooms edge out one ($117K vs. $101K); 3–4 bedroom party houses lag.",
+          "Branded repeat operators reach $130–183K. Oversized master bedrooms are not supported by the data."
+        ]
+      }
+    ],
+    "buy": [
+      "A 1–2 bedroom cabin or A-frame with a private hot tub in a proven mountain/lake getaway market.",
+      "Room for one dedicated play space alongside a normal sleeping bedroom.",
+      "The core kit, decent finishes and a cover photo that sells the setting first.",
+      "An operator with premium pricing discipline: the top listings run about $390+ ADR at 80%+ occupancy.",
+      "Underwrite against premium conventional cabins in the same market, never against a citywide average."
+    ],
+    "confidence": "Directional evidence. Both samples were discovered rather than randomly drawn, revenue is AirDNA’s modeled figure and comp sets are small. The gap is an observed association, not a guaranteed uplift."
+  },
+  "caveats": [
+    "A discovered set of 56 listings, not a random sample; higher rungs contain only 4–20 listings each.",
+    "Revenue Potential is modeled and flatters young listings (15 of 56 have fewer than 300 active nights).",
+    "Gaps are associations with a few reviewed comps, not causal theme effects or return estimates. 18 listings have no usable comp.",
+    "Photo coding reflects public galleries on October 27, 2026; not shown does not mean absent.",
+    "The 56-listing set uses a newer AirDNA pull than the 15 confirmed-cabin comparisons; the two are reported separately."
+  ],
+  "photos": {
+    "q1_exterior": {
+      "path": "data/driver-photos/1376888340135621101_002.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/dcd5f868-4d39-410e-b5e1-31b1f069957b.jpeg",
+      "label": "Velvet Chains, Blue Ridge: A-frame setting ($132K)"
+    },
+    "q1_hottub": {
+      "path": "data/driver-photos/1376888340135621101_003.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/a25ec061-3582-487a-8dc1-7e7ccffb6e51.jpeg",
+      "label": "Velvet Chains: hot tub porch ($132K)"
+    },
+    "q2_room": {
+      "path": "data/driver-photos/1376888340135621101_008.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1376888340135621101/original/1eea8af0-71d4-4d77-b513-b345bb37a1ca.jpeg",
+      "label": "Velvet Chains: cross, bench and stocks in one red room ($132K)"
+    },
+    "q2_swing": {
+      "path": "data/driver-photos/818007519234160934_020.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818007519234160934/original/035d4308-9d98-4811-b02a-d07f203a150a.jpeg",
+      "label": "Red Room Cabins “The Fortress”, Dunlap: swing and cross ($183K)"
+    },
+    "q3_bedroom": {
+      "path": "data/driver-photos/1452875891719932372_010.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1452875891719932372/original/68c0f56c-6dcf-4031-b0b6-74fcfe293658.jpeg",
+      "label": "Tangled Up, Blue Ridge ($117K): a normal bedroom…"
+    },
+    "q3_playroom": {
+      "path": "data/driver-photos/1452875891719932372_012.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/a601590d-3897-4224-beb1-478a2832f84f.jpeg",
+      "label": "Tangled Up ($117K): …and a separate, contained playroom"
+    },
+    "rung_0": {
+      "path": "data/driver-photos/1328989012265007290_002.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1328989012265007290/original/3af5f9d1-1b4b-4657-86cb-20447ab21298.jpeg",
+      "label": "City apartment, Philadelphia ($36K)"
+    },
+    "rung_1": {
+      "path": "data/driver-photos/1089492203815317887_004.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089492203815317887/original/85395521-6c36-4cb8-8131-e575092dd329.jpeg",
+      "label": "Hot-tub city apartment, Nashville ($51K)"
+    },
+    "rung_2": {
+      "path": "data/driver-photos/1077129299765585397_003.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1077129299765585397/original/49d47f8c-6afb-4275-8d3d-f89a80c0220e.jpeg",
+      "label": "“Secret room” cabin, Clayton GA ($86K)"
+    },
+    "rung_3": {
+      "path": "data/driver-photos/1452875891719932372_031.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/d4ef4912-6733-4ec0-bb18-f753eb0535b1.jpeg",
+      "label": "Tangled Up, Blue Ridge ($117K)"
+    },
+    "rung_Top": {
+      "path": "data/driver-photos/818007519234160934_001.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-818007519234160934/original/b26dfded-ed43-4dd3-8d58-4e5784f0347c.jpeg",
+      "label": "The Fortress, Dunlap ($183K)"
+    },
+    "dc1_adult_living": {
+      "path": "data/driver-photos/1459813209108609693_010.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1459813209108609693/original/986557bd-6e31-43a6-8413-2caa7cac9d9d.jpeg",
+      "label": "Living room"
+    },
+    "dc1_adult_bed": {
+      "path": "data/driver-photos/1459813209108609693_015.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1459813209108609693/original/959badbc-d997-43ff-9f47-ba941c20d725.jpeg",
+      "label": "Bedroom"
+    },
+    "dc1_comp_living": {
+      "path": "data/driver-photos/1415931071590943896_001.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxNTkzMTA3MTU5MDk0Mzg5Ng==/original/d3b2d678-0c25-4e57-a624-fdbf5ef7c4fd.jpeg",
+      "label": "Living room"
+    },
+    "dc1_comp_bed": {
+      "path": "data/driver-photos/1415931071590943896_019.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxNTkzMTA3MTU5MDk0Mzg5Ng==/original/8e01d75b-6828-4ba8-9e05-caeb37798dda.jpeg",
+      "label": "Bedroom"
+    },
+    "dc2_adult_living": {
+      "path": "data/driver-photos/1506618167305914988_001.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1506618167305914988/original/9c2b428c-801f-4ecf-b5fb-7959b385c4a8.jpeg",
+      "label": "Living room"
+    },
+    "dc2_adult_bath": {
+      "path": "data/driver-photos/1506618167305914988_006.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1506618167305914988/original/a0436f74-48e6-4320-9eb0-3ca8f3a5ecbf.jpeg",
+      "label": "Bathroom"
+    },
+    "dc2_comp_living": {
+      "path": "data/driver-photos/1145738372807027219_002.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1145738372807027219/original/720ac03b-341d-4080-8e6b-34e5cd6c4410.jpeg",
+      "label": "Covered outdoor lounge"
+    },
+    "dc2_comp_bath": {
+      "path": "data/driver-photos/1145738372807027219_004.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1145738372807027219/original/731eff43-5d0e-4032-b64c-4edd6afae229.jpeg",
+      "label": "Bathroom"
+    }
+  },
+  "design_comps": [
+    {
+      "adult": "Private Red Room Couples Cabin",
+      "comp": "Alpine Poppy",
+      "market": "Sautee Nacoochee, GA",
+      "style": "Rustic hot-tub cabins",
+      "adult_revenue": 57464,
+      "comp_revenue": 31252,
+      "comp_median": 34759,
+      "gap": 0.6532,
+      "prefix": "dc1",
+      "rooms": [
+        "living",
+        "bed"
+      ],
+      "note": "Comparable rustic finishes and hot tubs; the themed cabin earns about 65% more than its three reviewed comps."
+    },
+    {
+      "adult": "Sugar & Spice",
+      "comp": "The Onyx Escape",
+      "market": "Broken Bow, OK",
+      "style": "Modern hot-tub cabins",
+      "adult_revenue": 73232,
+      "comp_revenue": 81157,
+      "comp_median": 59176,
+      "gap": 0.2375,
+      "prefix": "dc2",
+      "rooms": [
+        "living",
+        "bath"
+      ],
+      "note": "A themed cabin with little real equipment (rung 2) beats its comp median by only 24%, and this luxury comp out-earns it."
+    }
+  ]
+}

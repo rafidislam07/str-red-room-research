@@ -2,7 +2,7 @@
 
 The `site` directory contains the cleaned static research presentation, current
 comparison data, referenced photos, and two current research downloads.
-Research updated October 26, 2026. Historical reports and working datasets are excluded.
+Research updated October 27, 2026. Historical reports and working datasets are excluded.
 
 ## Local preview
 
