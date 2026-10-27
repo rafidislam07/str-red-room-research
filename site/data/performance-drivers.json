@@ -215,7 +215,7 @@
     ]
   ],
   "kink_points": [
-    "Core kit: St. Andrew’s cross, swing, spanking bench, tantra chair, restraint points on the bed, red/LED lighting and a clean toy display. Every listing above $100K has a swing; 92% have a cross.",
+    "Core kit: a swing, a St. Andrew’s cross, a spanking bench and restraint points on the bed, in red/LED lighting. Every listing above $100K has a swing; 92% have a cross.",
     "A credible kit is enough. Moving from a lighting-only “secret room” to a real, photographed setup is the step that matters; more pieces beyond that do not keep raising the premium.",
     "Romance-only rooms (intensity 1/5) underperform comps by about 41% (3 with comps). Full dungeons earn high rates at lower occupancy, which makes them a niche product.",
     "Skip the pole: it is more common in the lower tier and in city “bachelorette” party houses."
@@ -265,10 +265,10 @@
         "q": "Which kink amenities and design patterns?",
         "a": "A credible core kit, not a maximal dungeon.",
         "points": [
-          "Core kit: St. Andrew’s cross, swing, spanking bench, tantra chair, bed restraints, red/LED lighting.",
-          "Every listing above $100K has a swing; 92% have a cross.",
+          "Core kit: a swing, a St. Andrew’s cross, a spanking bench and bed restraint points, in red/LED lighting.",
+          "Swing (+43%) and cross (+38%) carry the clearest signal among comparable cabins; a cage and neon are upgrades.",
           "No real equipment: −25% vs. comps. One to three pieces: already +71%.",
-          "Avoid lighting-only “secret rooms” and stripper poles."
+          "Skip the stripper pole. Tantra chairs are common but show no edge."
         ]
       },
       {
@@ -302,131 +302,502 @@
     "q1_exterior": {
       "path": "data/driver-photos/1376888340135621101_002.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/dcd5f868-4d39-410e-b5e1-31b1f069957b.jpeg",
-      "label": "Velvet Chains, Blue Ridge: A-frame setting ($132K)"
+      "label": "Velvet Chains, Blue Ridge: A-frame setting ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
     },
     "q1_hottub": {
       "path": "data/driver-photos/1376888340135621101_003.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/a25ec061-3582-487a-8dc1-7e7ccffb6e51.jpeg",
-      "label": "Velvet Chains: hot tub porch ($132K)"
+      "label": "Velvet Chains: hot tub porch ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
     },
     "q2_room": {
       "path": "data/driver-photos/1376888340135621101_008.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1376888340135621101/original/1eea8af0-71d4-4d77-b513-b345bb37a1ca.jpeg",
-      "label": "Velvet Chains: cross, bench and stocks in one red room ($132K)"
+      "label": "Velvet Chains: cross, bench and stocks in one red room ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
     },
     "q2_swing": {
       "path": "data/driver-photos/818007519234160934_020.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-818007519234160934/original/035d4308-9d98-4811-b02a-d07f203a150a.jpeg",
-      "label": "Red Room Cabins “The Fortress”, Dunlap: swing and cross ($183K)"
+      "label": "Red Room Cabins “The Fortress”, Dunlap: swing and cross ($183K)",
+      "listing_url": "https://www.airbnb.com/rooms/818007519234160934"
     },
     "q3_bedroom": {
       "path": "data/driver-photos/1452875891719932372_010.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1452875891719932372/original/68c0f56c-6dcf-4031-b0b6-74fcfe293658.jpeg",
-      "label": "Tangled Up, Blue Ridge ($117K): a normal bedroom…"
+      "label": "Tangled Up, Blue Ridge ($117K): a normal bedroom…",
+      "listing_url": "https://www.airbnb.com/rooms/1452875891719932372"
     },
     "q3_playroom": {
       "path": "data/driver-photos/1452875891719932372_012.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/a601590d-3897-4224-beb1-478a2832f84f.jpeg",
-      "label": "Tangled Up ($117K): …and a separate, contained playroom"
+      "label": "Tangled Up ($117K): …and a separate, contained playroom",
+      "listing_url": "https://www.airbnb.com/rooms/1452875891719932372"
     },
     "rung_0": {
       "path": "data/driver-photos/1328989012265007290_002.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1328989012265007290/original/3af5f9d1-1b4b-4657-86cb-20447ab21298.jpeg",
-      "label": "City apartment, Philadelphia ($36K)"
+      "label": "City apartment, Philadelphia ($36K)",
+      "listing_url": "https://www.airbnb.com/rooms/1328989012265007290"
     },
     "rung_1": {
       "path": "data/driver-photos/1089492203815317887_004.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1089492203815317887/original/85395521-6c36-4cb8-8131-e575092dd329.jpeg",
-      "label": "Hot-tub city apartment, Nashville ($51K)"
+      "label": "Hot-tub city apartment, Nashville ($51K)",
+      "listing_url": "https://www.airbnb.com/rooms/1089492203815317887"
     },
     "rung_2": {
       "path": "data/driver-photos/1077129299765585397_003.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1077129299765585397/original/49d47f8c-6afb-4275-8d3d-f89a80c0220e.jpeg",
-      "label": "“Secret room” cabin, Clayton GA ($86K)"
+      "label": "“Secret room” cabin, Clayton GA ($86K)",
+      "listing_url": "https://www.airbnb.com/rooms/1077129299765585397"
     },
     "rung_3": {
       "path": "data/driver-photos/1452875891719932372_031.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQ1Mjg3NTg5MTcxOTkzMjM3Mg==/original/d4ef4912-6733-4ec0-bb18-f753eb0535b1.jpeg",
-      "label": "Tangled Up, Blue Ridge ($117K)"
+      "label": "Tangled Up, Blue Ridge ($117K)",
+      "listing_url": "https://www.airbnb.com/rooms/1452875891719932372"
     },
     "rung_Top": {
       "path": "data/driver-photos/818007519234160934_001.jpg",
       "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-818007519234160934/original/b26dfded-ed43-4dd3-8d58-4e5784f0347c.jpeg",
-      "label": "The Fortress, Dunlap ($183K)"
+      "label": "The Fortress, Dunlap ($183K)",
+      "listing_url": "https://www.airbnb.com/rooms/818007519234160934"
+    },
+    "amenity_swing_or_sling": {
+      "path": "data/driver-photos/1376888340135621101_044.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/42a8ff0e-dd85-481f-9d2b-e4aa718a93b7.jpeg",
+      "label": "Swing / sling: Velvet Chains, Blue Ridge ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
+    },
+    "amenity_st_andrews_cross": {
+      "path": "data/driver-photos/818007519234160934_024.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/9761ecb1-02a3-4715-9970-39e2edc865b1.jpg",
+      "label": "St. Andrew's cross: The Fortress, Dunlap ($183K)",
+      "listing_url": "https://www.airbnb.com/rooms/818007519234160934"
+    },
+    "amenity_spanking_bench": {
+      "path": "data/driver-photos/1030618408849474178_032.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1030618408849474178/original/3816b8c9-0684-4dbe-bcaa-3c31f159fb0a.jpeg",
+      "label": "Spanking bench: Private Adult Themed Cabin, Idlewild MI ($107K)",
+      "listing_url": "https://www.airbnb.com/rooms/1030618408849474178"
+    },
+    "amenity_restraint_bed": {
+      "path": "data/driver-photos/1452875891719932372_011.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1452875891719932372/original/921dcda3-6ced-451b-a50d-cf197114c38b.jpeg",
+      "label": "Bed restraint points: Tangled Up, Blue Ridge ($117K)",
+      "listing_url": "https://www.airbnb.com/rooms/1452875891719932372"
+    },
+    "amenity_led_or_red_lighting": {
+      "path": "data/driver-photos/1062367315688680790_012.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1062367315688680790/original/d5caf327-4af4-4025-aec4-df6dcb813d5c.jpeg",
+      "label": "Red / LED mood lighting: Adult-Only Retreat, Winter Haven FL ($79K)",
+      "listing_url": "https://www.airbnb.com/rooms/1062367315688680790"
+    },
+    "amenity_cage": {
+      "path": "data/driver-photos/1189300618585325823_015.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1189300618585325823/original/eb22fa97-0757-4ff2-8d4e-7f57f144f1cb.jpeg",
+      "label": "Cage / cage bed: Naughty Pines, Charleston WV ($70K)",
+      "listing_url": "https://www.airbnb.com/rooms/1189300618585325823"
+    },
+    "amenity_neon_sign": {
+      "path": "data/driver-photos/894887464160144127_019.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-894887464160144127/original/c0196d30-d321-4d02-8588-9a2a974f1da9.jpeg",
+      "label": "Neon sign: Kinky Ski Cabin, Banner Elk ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/894887464160144127"
+    },
+    "amenity_tantra_chair_or_wedge": {
+      "path": "data/driver-photos/818007519234160934_028.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/9e473b20-e025-44dd-8787-a5a2e9832e62.jpg",
+      "label": "Tantra chair / wedge: The Fortress, Dunlap ($183K)",
+      "listing_url": "https://www.airbnb.com/rooms/818007519234160934"
+    },
+    "amenity_toy_wall_or_display": {
+      "path": "data/driver-photos/1376888340135621101_009.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/c2bf81dd-f03e-4f9e-aeb1-394b1b033a2d.jpeg",
+      "label": "Toy wall / display: Velvet Chains, Blue Ridge ($132K)",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
+    },
+    "amenity_massage_table": {
+      "path": "data/driver-photos/1459813209108609693_012.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1459813209108609693/original/99326acf-1177-400f-9ca5-e0dc82bcd8a0.jpeg",
+      "label": "Massage table: Private Red Room Couples Cabin, Sautee ($57K)",
+      "listing_url": "https://www.airbnb.com/rooms/1459813209108609693"
+    },
+    "amenity_pole": {
+      "path": "data/driver-photos/1359792332809961873_040.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1OTc5MjMzMjgwOTk2MTg3Mw==/original/940bde13-c493-4327-a2a7-20b7abe57b3b.jpeg",
+      "label": "Stripper pole: The Lovers’ Lair, Rock Island TN ($126K)",
+      "listing_url": "https://www.airbnb.com/rooms/1359792332809961873"
     },
     "dc1_adult_living": {
-      "path": "data/driver-photos/1459813209108609693_010.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1459813209108609693/original/986557bd-6e31-43a6-8413-2caa7cac9d9d.jpeg",
-      "label": "Living room"
+      "path": "data/driver-photos/1376888340135621101_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/e7c7c421-8e3a-4d09-80b2-fe8666d4d0ec.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
     },
-    "dc1_adult_bed": {
-      "path": "data/driver-photos/1459813209108609693_015.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1459813209108609693/original/959badbc-d997-43ff-9f47-ba941c20d725.jpeg",
-      "label": "Bedroom"
+    "dc1_adult_sleeping": {
+      "path": "data/driver-photos/1376888340135621101_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM3Njg4ODM0MDEzNTYyMTEwMQ==/original/229c5728-033b-4404-a3dd-f3e6a60b3b68.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1376888340135621101"
     },
     "dc1_comp_living": {
-      "path": "data/driver-photos/1415931071590943896_001.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxNTkzMTA3MTU5MDk0Mzg5Ng==/original/d3b2d678-0c25-4e57-a624-fdbf5ef7c4fd.jpeg",
-      "label": "Living room"
+      "path": "data/driver-photos/1020266756291150958_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/7d91a04a-d3f3-45c2-8f2e-1ce900b7d0bf.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1020266756291150958"
     },
-    "dc1_comp_bed": {
-      "path": "data/driver-photos/1415931071590943896_019.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTQxNTkzMTA3MTU5MDk0Mzg5Ng==/original/8e01d75b-6828-4ba8-9e05-caeb37798dda.jpeg",
-      "label": "Bedroom"
+    "dc1_comp_sleeping": {
+      "path": "data/driver-photos/1020266756291150958_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1020266756291150958/original/48c8cbb1-ce1e-421a-aa8d-6af8bbf3bac1.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1020266756291150958"
     },
     "dc2_adult_living": {
-      "path": "data/driver-photos/1506618167305914988_001.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1506618167305914988/original/9c2b428c-801f-4ecf-b5fb-7959b385c4a8.jpeg",
-      "label": "Living room"
+      "path": "data/driver-photos/1126713605050298701_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1126713605050298701/original/cc2b2525-b59d-4a11-8fcd-51cce07ebb73.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1126713605050298701"
     },
-    "dc2_adult_bath": {
-      "path": "data/driver-photos/1506618167305914988_006.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1506618167305914988/original/a0436f74-48e6-4320-9eb0-3ca8f3a5ecbf.jpeg",
-      "label": "Bathroom"
+    "dc2_adult_sleeping": {
+      "path": "data/driver-photos/1126713605050298701_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1126713605050298701/original/b521cea3-f52c-49ef-989b-aa735778affb.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1126713605050298701"
     },
     "dc2_comp_living": {
-      "path": "data/driver-photos/1145738372807027219_002.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1145738372807027219/original/720ac03b-341d-4080-8e6b-34e5cd6c4410.jpeg",
-      "label": "Covered outdoor lounge"
+      "path": "data/driver-photos/1473559810945854851_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/874cc689-1a7a-4a84-b7d4-36519bf0d66d.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1473559810945854851"
     },
-    "dc2_comp_bath": {
-      "path": "data/driver-photos/1145738372807027219_004.jpg",
-      "source_url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-1145738372807027219/original/731eff43-5d0e-4032-b64c-4edd6afae229.jpeg",
-      "label": "Bathroom"
+    "dc2_comp_sleeping": {
+      "path": "data/driver-photos/1473559810945854851_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1473559810945854851/original/fd131ee8-0f28-4391-bee6-ade5ceb4badf.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1473559810945854851"
+    },
+    "dc3_adult_living": {
+      "path": "data/driver-photos/1104485212592092496_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/3ddb58f9-1dce-4f2d-ae32-6e7cb079deec.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1104485212592092496"
+    },
+    "dc3_adult_sleeping": {
+      "path": "data/driver-photos/1104485212592092496_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/miso/Hosting-1104485212592092496/original/60c84239-1724-48af-93a7-3c8dd1ad4767.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1104485212592092496"
+    },
+    "dc3_comp_living": {
+      "path": "data/driver-photos/1016618411511525213_living.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/f752dfd6-b94b-4581-8975-d0cb5b492a14.jpeg",
+      "label": "Living room",
+      "listing_url": "https://www.airbnb.com/rooms/1016618411511525213"
+    },
+    "dc3_comp_sleeping": {
+      "path": "data/driver-photos/1016618411511525213_sleeping.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1016618411511525213/original/12ee5b3a-1dd3-416d-a9bb-3bc1d678ef1f.jpeg",
+      "label": "Bedroom",
+      "listing_url": "https://www.airbnb.com/rooms/1016618411511525213"
     }
   },
+  "amenity_scores": [
+    {
+      "key": "swing_or_sling",
+      "name": "Swing / sling",
+      "photo": "amenity_swing_or_sling",
+      "verdict": "Core",
+      "note": "Present in every $100K+ listing. The clearest single signal among comparable cabins.",
+      "share": 0.667,
+      "top": 1.0,
+      "lower": 0.619,
+      "cabins_with": 18,
+      "cabins_without": 6,
+      "median_with": 107154.5,
+      "median_without": 74991.5,
+      "lift": 0.4289,
+      "score": 90,
+      "all_median_with": 71834.0,
+      "all_median_without": 52964.0,
+      "all_with": 36,
+      "all_without": 18
+    },
+    {
+      "key": "st_andrews_cross",
+      "name": "St. Andrew's cross",
+      "photo": "amenity_st_andrews_cross",
+      "verdict": "Core",
+      "note": "The anchor piece of most red rooms; strongly over-represented at the top.",
+      "share": 0.778,
+      "top": 0.923,
+      "lower": 0.714,
+      "cabins_with": 19,
+      "cabins_without": 5,
+      "median_with": 101357,
+      "median_without": 73232,
+      "lift": 0.3841,
+      "score": 80,
+      "all_median_with": 65932.5,
+      "all_median_without": 51529.0,
+      "all_with": 42,
+      "all_without": 12
+    },
+    {
+      "key": "spanking_bench",
+      "name": "Spanking bench",
+      "photo": "amenity_spanking_bench",
+      "verdict": "Core",
+      "note": "Much more common at the top tier; only a small revenue edge on its own among comparable cabins.",
+      "share": 0.5,
+      "top": 0.692,
+      "lower": 0.381,
+      "cabins_with": 14,
+      "cabins_without": 10,
+      "median_with": 95951.0,
+      "median_without": 90267.5,
+      "lift": 0.063,
+      "score": 69,
+      "all_median_with": 76751,
+      "all_median_without": 50655,
+      "all_with": 27,
+      "all_without": 27
+    },
+    {
+      "key": "restraint_bed",
+      "name": "Bed restraint points",
+      "photo": "amenity_restraint_bed",
+      "verdict": "Core",
+      "note": "Low-cost and keeps the bedroom usable as a normal bedroom; a modest positive signal.",
+      "share": 0.389,
+      "top": 0.462,
+      "lower": 0.286,
+      "cabins_with": 8,
+      "cabins_without": 16,
+      "median_with": 97806.5,
+      "median_without": 88412.0,
+      "lift": 0.1063,
+      "score": 64,
+      "all_median_with": 69708,
+      "all_median_without": 52137,
+      "all_with": 21,
+      "all_without": 33
+    },
+    {
+      "key": "led_or_red_lighting",
+      "name": "Red / LED mood lighting",
+      "photo": "amenity_led_or_red_lighting",
+      "verdict": "Table stakes",
+      "note": "In 89% of listings at every tier, so it does not differentiate; a red room is expected to look like one.",
+      "share": 0.889,
+      "top": 0.923,
+      "lower": 0.905,
+      "cabins_with": 21,
+      "cabins_without": 3,
+      "median_with": 94256,
+      "median_without": 86279,
+      "lift": null,
+      "score": null,
+      "all_median_with": 56368.5,
+      "all_median_without": 77993.5,
+      "all_with": 48,
+      "all_without": 6
+    },
+    {
+      "key": "cage",
+      "name": "Cage / cage bed",
+      "photo": "amenity_cage",
+      "verdict": "Upgrade",
+      "note": "Rare (19%) but concentrated at the top; a strong signal on a small sample. Best as a statement piece.",
+      "share": 0.185,
+      "top": 0.385,
+      "lower": 0.048,
+      "cabins_with": 6,
+      "cabins_without": 18,
+      "median_with": 118460.5,
+      "median_without": 84771.5,
+      "lift": 0.3974,
+      "score": 87,
+      "all_median_with": 98850.5,
+      "all_median_without": 52781.0,
+      "all_with": 10,
+      "all_without": 44
+    },
+    {
+      "key": "neon_sign",
+      "name": "Neon sign",
+      "photo": "amenity_neon_sign",
+      "verdict": "Upgrade",
+      "note": "Cheap, photogenic and more common at the top; useful for the listing photos.",
+      "share": 0.556,
+      "top": 0.692,
+      "lower": 0.381,
+      "cabins_with": 15,
+      "cabins_without": 9,
+      "median_with": 101357,
+      "median_without": 83264,
+      "lift": 0.2173,
+      "score": 76,
+      "all_median_with": 72651.0,
+      "all_median_without": 46134.0,
+      "all_with": 30,
+      "all_without": 24
+    },
+    {
+      "key": "tantra_chair_or_wedge",
+      "name": "Tantra chair / wedge",
+      "photo": "amenity_tantra_chair_or_wedge",
+      "verdict": "Optional",
+      "note": "Common in every tier but shows no edge among comparable cabins; not a differentiator.",
+      "share": 0.63,
+      "top": 0.692,
+      "lower": 0.524,
+      "cabins_with": 18,
+      "cabins_without": 6,
+      "median_with": 86904.5,
+      "median_without": 120147.5,
+      "lift": -0.2767,
+      "score": 45,
+      "all_median_with": 67029.0,
+      "all_median_without": 48124.5,
+      "all_with": 34,
+      "all_without": 20
+    },
+    {
+      "key": "toy_wall_or_display",
+      "name": "Toy wall / display",
+      "photo": "amenity_toy_wall_or_display",
+      "verdict": "Optional",
+      "note": "Common everywhere with no revenue edge; a finishing touch rather than a driver.",
+      "share": 0.63,
+      "top": 0.692,
+      "lower": 0.571,
+      "cabins_with": 16,
+      "cabins_without": 8,
+      "median_with": 86904.5,
+      "median_without": 97806.5,
+      "lift": -0.1115,
+      "score": 50,
+      "all_median_with": 60907.0,
+      "all_median_without": 62511.5,
+      "all_with": 34,
+      "all_without": 20
+    },
+    {
+      "key": "massage_table",
+      "name": "Massage table",
+      "photo": "amenity_massage_table",
+      "verdict": "Optional",
+      "note": "Rare and neutral; fits a romance/spa angle rather than the kink kit.",
+      "share": 0.148,
+      "top": 0.231,
+      "lower": 0.048,
+      "cabins_with": 4,
+      "cabins_without": 20,
+      "median_with": 89675.0,
+      "median_without": 92400.5,
+      "lift": -0.0295,
+      "score": 58,
+      "all_median_with": 69792.5,
+      "all_median_without": 52789.0,
+      "all_with": 8,
+      "all_without": 46
+    },
+    {
+      "key": "pole",
+      "name": "Stripper pole",
+      "photo": "amenity_pole",
+      "verdict": "Avoid",
+      "note": "Skews to the lower tier and city party houses; listings with one have a $43K median vs. $71K without.",
+      "share": 0.222,
+      "top": 0.154,
+      "lower": 0.333,
+      "cabins_with": 2,
+      "cabins_without": 22,
+      "median_with": 101804.0,
+      "median_without": 92400.5,
+      "lift": null,
+      "score": null,
+      "all_median_with": 43001.0,
+      "all_median_without": 70653.0,
+      "all_with": 12,
+      "all_without": 42
+    }
+  ],
+  "amenity_too_few": [
+    {
+      "name": "Stocks / pillory frame",
+      "listings": 6
+    },
+    {
+      "name": "Throne / queening chair",
+      "listings": 3
+    },
+    {
+      "name": "Mirror wall or ceiling",
+      "listings": 3
+    },
+    {
+      "name": "Suspension rig",
+      "listings": 1
+    }
+  ],
   "design_comps": [
     {
-      "adult": "Private Red Room Couples Cabin",
-      "comp": "Alpine Poppy",
-      "market": "Sautee Nacoochee, GA",
-      "style": "Rustic hot-tub cabins",
-      "adult_revenue": 57464,
-      "comp_revenue": 31252,
-      "comp_median": 34759,
-      "gap": 0.6532,
+      "adult": "Velvet Chains Retreat",
+      "comp": "Hilltop Haus: 6 Minutes From Downtown Blue Ridge",
+      "market": "Blue Ridge, GA",
+      "style": "A-frame hot-tub cabins",
+      "adult_revenue": 151857,
+      "comp_revenue": 76090,
+      "comp_median": 63561.0,
+      "gap": 1.3892,
+      "gap_vs_comp": 0.9958,
+      "comps_reviewed": 5,
       "prefix": "dc1",
       "rooms": [
         "living",
-        "bed"
+        "sleeping"
       ],
-      "note": "Comparable rustic finishes and hot tubs; the themed cabin earns about 65% more than its three reviewed comps."
+      "note": "Shown beside its best-earning comparable comp; all 5 photo-reviewed comps earn less."
     },
     {
-      "adult": "Sugar & Spice",
-      "comp": "The Onyx Escape",
-      "market": "Broken Bow, OK",
-      "style": "Modern hot-tub cabins",
-      "adult_revenue": 73232,
-      "comp_revenue": 81157,
-      "comp_median": 59176,
-      "gap": 0.2375,
+      "adult": "Limited Nights Left Top Rated Adults Only Cabin",
+      "comp": "Epic Romantic Oasis! Movie Theatre! 5 min to PF!",
+      "market": "Pigeon Forge, TN",
+      "style": "Couples hot-tub cabins",
+      "adult_revenue": 130110,
+      "comp_revenue": 89918,
+      "comp_median": 80658.0,
+      "gap": 0.6131,
+      "gap_vs_comp": 0.447,
+      "comps_reviewed": 3,
       "prefix": "dc2",
       "rooms": [
         "living",
-        "bath"
+        "sleeping"
       ],
-      "note": "A themed cabin with little real equipment (rung 2) beats its comp median by only 24%, and this luxury comp out-earns it."
+      "note": "Shown beside its best-earning comparable comp; all 3 photo-reviewed comps earn less."
+    },
+    {
+      "adult": "Red Sunset",
+      "comp": "Private Luxury Cabin, Romantic Getaway for Couples",
+      "market": "Broken Bow, OK",
+      "style": "Luxury hot-tub cabins",
+      "adult_revenue": 129771,
+      "comp_revenue": 92862,
+      "comp_median": 72107.0,
+      "gap": 0.7997,
+      "gap_vs_comp": 0.3975,
+      "comps_reviewed": 5,
+      "prefix": "dc3",
+      "rooms": [
+        "living",
+        "sleeping"
+      ],
+      "note": "Shown beside its best-earning comparable comp; all 5 photo-reviewed comps earn less."
     }
   ]
 }

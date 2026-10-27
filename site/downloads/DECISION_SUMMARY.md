@@ -23,10 +23,10 @@
 
 **A credible core kit, not a maximal dungeon.**
 
-- Core kit: St. Andrew’s cross, swing, spanking bench, tantra chair, bed restraints, red/LED lighting.
-- Every listing above $100K has a swing; 92% have a cross.
+- Core kit: a swing, a St. Andrew’s cross, a spanking bench and bed restraint points, in red/LED lighting.
+- Swing (+43%) and cross (+38%) carry the clearest signal among comparable cabins; a cage and neon are upgrades.
 - No real equipment: −25% vs. comps. One to three pieces: already +71%.
-- Avoid lighting-only “secret rooms” and stripper poles.
+- Skip the stripper pole. Tantra chairs are common but show no edge.
 
 ## Question 3: What else goes with stronger performance?
 
@@ -54,8 +54,9 @@
 
 ## Design comps
 
-- **Rustic hot-tub cabins, Sautee Nacoochee, GA:** Private Red Room Couples Cabin ($57,464) vs. Alpine Poppy ($31,252); +65.3% vs. a $34,759 comp median. Comparable rustic finishes and hot tubs; the themed cabin earns about 65% more than its three reviewed comps.
-- **Modern hot-tub cabins, Broken Bow, OK:** Sugar & Spice ($73,232) vs. The Onyx Escape ($81,157); +23.8% vs. a $59,176 comp median. A themed cabin with little real equipment (rung 2) beats its comp median by only 24%, and this luxury comp out-earns it.
+- **A-frame hot-tub cabins, Blue Ridge, GA:** Velvet Chains Retreat ($151,857) vs. Hilltop Haus: 6 Minutes From Downtown Blue Ridge ($76,090); +138.9% vs. a $63,561 comp median. Shown beside its best-earning comparable comp; all 5 photo-reviewed comps earn less.
+- **Couples hot-tub cabins, Pigeon Forge, TN:** Limited Nights Left Top Rated Adults Only Cabin ($130,110) vs. Epic Romantic Oasis! Movie Theatre! 5 min to PF! ($89,918); +61.3% vs. a $80,658 comp median. Shown beside its best-earning comparable comp; all 3 photo-reviewed comps earn less.
+- **Luxury hot-tub cabins, Broken Bow, OK:** Red Sunset ($129,771) vs. Private Luxury Cabin, Romantic Getaway for Couples ($92,862); +80.0% vs. a $72,107 comp median. Shown beside its best-earning comparable comp; all 5 photo-reviewed comps earn less.
 
 ## What to buy
 
